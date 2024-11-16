@@ -64,13 +64,7 @@ const sendLogin = async (wallet: string) => {
 };
 
 const handleLogin = async () => {
-  if (!MiniKit.isInstalled()) {
-    console.error("MiniKit is not installed");
-    return;
-  }
-  const user = MiniKit.user;
-  console.log("handleLogin", user, MiniKit.appId);
-  const wallet = user?.walletAddress;
+  const wallet = MiniKit.walletAddress;
   if (wallet) {
     await sendLogin(wallet);
   }
