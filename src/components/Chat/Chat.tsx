@@ -1,15 +1,46 @@
-import React from "react";
+import {
+  Chat,
+  Channel,
+  ChannelList,
+  Window,
+  ChannelHeader,
+  MessageList,
+  MessageInput,
+  Thread,
+  useCreateChatClient,
+} from "stream-chat-react";
+import "stream-chat-react/dist/css/v2/index.css";
 
+const apiKey = "your-api-key";
+const userId = "user-id";
+const token = "authentication-token";
 
+const filters = { members: { $in: [userId] }, type: "messaging" };
+const options = { presence: true, state: true };
+// const sort = { last_message_at: -1 };
 
-const Chat: React.FC = () => {
+const ChatPage = () => {
+  const client = useCreateChatClient({
+    apiKey,
+    tokenOrProvider: token,
+    userData: { id: userId },
+  });
 
+  if (!client) return <div>Loading...</div>;
 
   return (
-    <div className="w-full h-full flex flex-col items-center justify-center">
-      <div className="bg-white p-8 max-w-sm w-full mb-16">Chat</div>
-    </div>
+    <Chat client={client}>
+      <ChannelList filters={filters} options={options} />
+      <Channel>
+        <Window>
+          <ChannelHeader />
+          <MessageList />
+          <MessageInput />
+        </Window>
+        <Thread />
+      </Channel>
+    </Chat>
   );
 };
 
-export default Chat;
+export default ChatPage;

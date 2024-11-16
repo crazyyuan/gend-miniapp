@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Form from "./components/Login/Form";
 import ProfileCard from "./components/Login/Avatar";
 import Dock from "./components/dock";
-import Chat from "./components/Chat/Chat";
+import ChatPage from "./components/Chat/Chat";
 
 interface userDateProps {
   username: string;
@@ -44,7 +44,7 @@ export default function App() {
       case 2:
         return (
           <>
-            <Chat />
+            <ChatPage />
             <Dock setStep={setStep} step={step} />
           </>
         );
@@ -64,7 +64,7 @@ export default function App() {
             {isMapping ? (
               <div className="w-full h-full flex flex-col items-center justify-center">
                 <div className="flex justify-between w-[90%] max-w-sm rounded-3xl py-2 fixed bottom-8 px-8">
-                  <div className="h-[60px] w-[60px]">
+                  <div className="h-[60px] w-[60px] shadow rounded-full flex items-center justify-center">
                     <svg
                       width="24"
                       height="24"
@@ -82,7 +82,12 @@ export default function App() {
                     </svg>
                   </div>
 
-                  <div>
+                  <div
+                    className="h-[60px] w-[60px] shadow rounded-full flex items-center justify-center"
+                    onClick={() => {
+                      setIsMapping(false);
+                    }}
+                  >
                     <svg
                       width="24"
                       height="24"
