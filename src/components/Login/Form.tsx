@@ -46,7 +46,7 @@ const Form: React.FC<{
         nonce: nonce,
         requestId: "0", // Optional
         expirationTime: new Date(
-          new Date().getTime() + 7 * 24 * 60 * 60 * 1000,
+          new Date().getTime() + 7 * 24 * 60 * 60 * 1000
         ),
         notBefore: new Date(new Date().getTime() - 24 * 60 * 60 * 1000),
         statement:
@@ -88,6 +88,7 @@ const Form: React.FC<{
           wallet: wallet,
         }),
       });
+      console.log(res);
       if (res.status === 200) {
         console.log("login success!", res.body);
       }
