@@ -15,7 +15,14 @@ const CustomMessageUi = () => {
   const { isMyMessage, message } = useMessageContext();
 
   return (
-    <div className="w-full border-2" data-message-id={message.id}>
+    <div
+      className={
+        "w-full border-2 flex flex-row items-center" + isMyMessage()
+          ? "justify-end"
+          : ""
+      }
+      data-message-id={message.id}
+    >
       <div className="w-[36px] h-[36px] rounded-full mx-auto flex items-center overflow-hidden">
         {isMyMessage() ? <Avatar5 /> : <Avatar3 />}
       </div>
