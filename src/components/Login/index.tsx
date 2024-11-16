@@ -27,6 +27,7 @@ const handleLogin = async () => {
     return;
   }
   const user = MiniKit.user;
+  console.log("handleLogin", user);
   const wallet = user?.walletAddress;
   if (wallet) {
     await sendLogin(wallet);
