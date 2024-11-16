@@ -5,15 +5,16 @@ import {
   MessageList,
   MessageInput,
   useCreateChatClient,
-  Avatar,
   useMessageContext,
 } from "stream-chat-react";
 import "stream-chat-react/dist/css/v2/index.css";
 import "./Chat.css";
+import { Avatar0, Avatar3 } from "../../public/avatar";
 
 const CustomMessageUi = () => {
   const { isMyMessage, message } = useMessageContext();
   const messageUiClassNames = ["custom-message-ui"];
+
   if (isMyMessage()) {
     messageUiClassNames.push("custom-message-ui--mine");
   } else {
@@ -21,7 +22,7 @@ const CustomMessageUi = () => {
   }
   return (
     <div className={messageUiClassNames.join(" ")} data-message-id={message.id}>
-      <Avatar image={"/public/avatar/avatar-1.svg"} />
+      {isMyMessage() ? <Avatar0 /> : <Avatar3 />}
       <span className="custom-message-ui__text">{message.text}</span>
     </div>
   );
@@ -93,12 +94,6 @@ const ChatPage = () => {
 
   return (
     <Chat client={client}>
-      <div>
-        <img
-          src="/public/avatar/avatar-1.svg"
-          className="w-[36px] h-[36px] rounded-full"
-        />
-      </div>
       <Channel channel={channel} Message={CustomMessageUi}>
         <div className="w-[100vw]">
           <MessageList />

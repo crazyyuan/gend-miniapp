@@ -5682,3 +5682,7 @@ export const Avatar5 = () => {
     </svg>
   );
 };
+
+export const Avatar0 = () => {
+  return <div></div>;
+};
