@@ -21,6 +21,11 @@ export default function App() {
 
   const [isMapping, setIsMapping] = useState(false);
 
+  const goToChat = () => {
+    setIsMapping(false);
+    setStep(2);
+  };
+
   useEffect(() => {
     setIsMapping(false);
   }, [step]);
@@ -61,6 +66,7 @@ export default function App() {
               setIsMapping={() => {
                 setIsMapping(true);
               }}
+              goToChat={goToChat}
             />
             {isMapping ? (
               <div className="w-full h-full flex flex-col items-center justify-center">

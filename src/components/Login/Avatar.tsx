@@ -1,4 +1,11 @@
 import React, { useState } from "react";
+import {
+  Avatar1,
+  Avatar2,
+  Avatar3,
+  Avatar4,
+  Avatar5,
+} from "../../public/avatar";
 
 interface userDateProps {
   username: string;
@@ -16,8 +23,26 @@ const ProfileCard: React.FC<{
   isMapping: boolean; // mine/ready/mapping
   step: number;
   setIsMapping: () => void;
-}> = ({ userData, setUserData, isMapping, step, setIsMapping }) => {
+  goToChat?: () => void;
+}> = ({ userData, setUserData, isMapping, step, setIsMapping, goToChat }) => {
   const [mapping, setMapping] = useState(isMapping);
+
+  const generateAvatar = () => {
+    switch (userData.avatar) {
+      case 1:
+        return <Avatar1 />;
+      case 2:
+        return <Avatar2 />;
+      case 3:
+        return <Avatar3 />;
+      case 4:
+        return <Avatar4 />;
+      case 5:
+        return <Avatar5 />;
+      default:
+        return null;
+    }
+  };
 
   const handleRandomAvatar = () => {
     const res = {
@@ -35,6 +60,7 @@ const ProfileCard: React.FC<{
     setMapping(true);
     setTimeout(() => {
       setMapping(false);
+      goToChat && goToChat();
     }, 2500);
   };
 
@@ -49,15 +75,12 @@ const ProfileCard: React.FC<{
           }}
         ></div>
       )}
-      <img
-        src={`/public/avatar/avatar-${(userData.avatar % 5) + 1}.svg`}
-        alt="Profile"
-        className="w-[170px] h-[170px] rounded-full mx-auto "
+      <div
+        className="w-[170px] h-[170px] rounded-full mx-auto flex items-center overflow-hidden"
         onClick={step === 1 ? handleRandomAvatar : handleMapping}
-        style={{
-          transform: "scale(1.05)",
-        }}
-      />
+      >
+        {generateAvatar()}
+      </div>
 
       {step === 1 && (
         <>

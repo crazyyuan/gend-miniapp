@@ -21,7 +21,7 @@ const CustomMessageUi = () => {
   }
   return (
     <div className={messageUiClassNames.join(" ")} data-message-id={message.id}>
-      <Avatar image={"/public/avatar/avatar-1.svg"} name={"11"} />
+      <Avatar image={"/public/avatar/avatar-1.svg"} />
       <span className="custom-message-ui__text">{message.text}</span>
     </div>
   );
