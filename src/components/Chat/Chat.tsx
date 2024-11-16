@@ -9,7 +9,7 @@ import {
 } from "stream-chat-react";
 import "stream-chat-react/dist/css/v2/index.css";
 import "./Chat.css";
-import { Avatar0, Avatar3 } from "../../public/avatar";
+import { Avatar3, Avatar5 } from "../../public/avatar";
 
 const CustomMessageUi = () => {
   const { isMyMessage, message } = useMessageContext();
@@ -22,7 +22,9 @@ const CustomMessageUi = () => {
   }
   return (
     <div className={messageUiClassNames.join(" ")} data-message-id={message.id}>
-      {isMyMessage() ? <Avatar0 /> : <Avatar3 />}
+      <div className="w-[36px] h-[36px] rounded-full mx-auto flex items-center overflow-hidden">
+        {isMyMessage() ? <Avatar5 /> : <Avatar3 />}
+      </div>
       <span className="custom-message-ui__text">{message.text}</span>
     </div>
   );
