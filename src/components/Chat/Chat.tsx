@@ -94,9 +94,13 @@ const ChatPage = () => {
   return (
     <Chat client={client}>
       <Channel channel={channel} Message={CustomMessageUi}>
-        <MessageList />
+        <div className="p-2">
+          <MessageList />
+        </div>
 
-        <MessageInput />
+        <div className="fixed w-[100vw] bottom-32">
+          <MessageInput />
+        </div>
       </Channel>
     </Chat>
   );
