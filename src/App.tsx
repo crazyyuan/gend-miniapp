@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Form from "./components/Login/Form";
 import ProfileCard from "./components/Login/Avatar";
 import Dock from "./components/dock";
-import ChatPage from "./components/Chat/Chat";
+import ChatBoard from "./components/Chat/ChatBoard";
 
 interface userDateProps {
   username: string;
@@ -44,7 +44,7 @@ export default function App() {
       case 2:
         return (
           <>
-            <ChatPage />
+            <ChatBoard />
             <Dock setStep={setStep} step={step} />
           </>
         );
