@@ -41,17 +41,14 @@ const Form: React.FC<{
 
     const nonce = crypto.randomUUID().replace(/-/g, "");
 
-    const { commandPayload, finalPayload } =
-      await MiniKit.commandsAsync.walletAuth({
-        nonce: nonce,
-        requestId: "0", // Optional
-        expirationTime: new Date(
-          new Date().getTime() + 7 * 24 * 60 * 60 * 1000
-        ),
-        notBefore: new Date(new Date().getTime() - 24 * 60 * 60 * 1000),
-        statement:
-          "This is my statement and here is a link https://worldcoin.com/apps",
-      });
+    const { finalPayload } = await MiniKit.commandsAsync.walletAuth({
+      nonce: nonce,
+      requestId: "0", // Optional
+      expirationTime: new Date(new Date().getTime() + 7 * 24 * 60 * 60 * 1000),
+      notBefore: new Date(new Date().getTime() - 24 * 60 * 60 * 1000),
+      statement:
+        "This is my statement and here is a link https://worldcoin.com/apps",
+    });
 
     if (finalPayload.status === "error") {
       return;
