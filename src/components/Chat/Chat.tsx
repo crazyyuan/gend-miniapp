@@ -22,7 +22,7 @@ const CustomMessageUi = () => {
   }
   return (
     <div
-      className={"absolute" + isMyMessage() ? "right-0" : "left-0"}
+      className={"absolute border-2" + isMyMessage() ? "right-0" : "left-0"}
       data-message-id={message.id}
     >
       <div className="w-[36px] h-[36px] rounded-full mx-auto flex items-center overflow-hidden">
