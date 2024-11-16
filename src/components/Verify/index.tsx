@@ -43,7 +43,7 @@ export const VerifyBlock = () => {
 
     // Verify the proof in the backend
     const verifyResponse = await fetch(
-      `${process.env.NEXTAUTH_URL}/api/verify`,
+      `${import.meta.env.VITE_NEXTAUTH_URL}/api/verify`,
       {
         method: "POST",
         headers: {
@@ -54,7 +54,7 @@ export const VerifyBlock = () => {
           action: verifyPayload.action,
           signal: verifyPayload.signal, // Optional
         }),
-      }
+      },
     );
 
     // TODO: Handle Success!

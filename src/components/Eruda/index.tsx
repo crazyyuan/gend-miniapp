@@ -1,11 +1,11 @@
 import { ReactNode, Suspense, lazy } from "react";
 
 const Eruda = lazy(() =>
-  import("./eruda-provider").then((c) => ({ default: c.Eruda }))
+  import("./eruda-provider").then((c) => ({ default: c.Eruda })),
 );
 
 export const ErudaProvider = (props: { children: ReactNode }) => {
-  if (process.env.PROD) {
+  if (import.meta.env.PROD) {
     return props.children;
   }
 

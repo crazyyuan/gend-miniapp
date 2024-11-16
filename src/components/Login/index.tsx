@@ -3,7 +3,7 @@ import { MiniKit } from "@worldcoin/minikit-js";
 
 const sendLogin = async (wallet: string) => {
   try {
-    const res = await fetch(`${process.env.NEXTAUTH_URL}/login`, {
+    const res = await fetch(`${import.meta.env.VITE_NEXTAUTH_URL}/login`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

@@ -8,10 +8,10 @@ import {
 const sendPayment = async () => {
   try {
     const res = await fetch(
-      `${process.env.NEXTAUTH_URL}/api/initiate-payment`,
+      `${import.meta.env.VITE_NEXTAUTH_URL}/api/initiate-payment`,
       {
         method: "POST",
-      }
+      },
     );
 
     const { id } = await res.json();
@@ -55,11 +55,14 @@ const handlePay = async () => {
   }
 
   if (response.status == "success") {
-    const res = await fetch(`${process.env.NEXTAUTH_URL}/api/confirm-payment`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ payload: response }),
-    });
+    const res = await fetch(
+      `${import.meta.env.VITE_NEXTAUTH_URL}/api/confirm-payment`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ payload: response }),
+      },
+    );
     const payment = await res.json();
     if (payment.success) {
       // Congrats your payment was successful!
