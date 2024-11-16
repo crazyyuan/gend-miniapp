@@ -11,7 +11,7 @@ export const Avatar1 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="#e1d7d5" />
       </g>
@@ -20,7 +20,7 @@ export const Avatar1 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -29,7 +29,7 @@ export const Avatar1 = () => {
           x="90"
           y="210"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -37,7 +37,7 @@ export const Avatar1 = () => {
           x="90"
           y="220"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -45,7 +45,7 @@ export const Avatar1 = () => {
           x="90"
           y="230"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -53,7 +53,7 @@ export const Avatar1 = () => {
           x="90"
           y="240"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -61,7 +61,7 @@ export const Avatar1 = () => {
           x="90"
           y="250"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -69,7 +69,7 @@ export const Avatar1 = () => {
           x="120"
           y="250"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -77,7 +77,7 @@ export const Avatar1 = () => {
           x="90"
           y="260"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -85,7 +85,7 @@ export const Avatar1 = () => {
           x="120"
           y="260"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -93,7 +93,7 @@ export const Avatar1 = () => {
           x="90"
           y="270"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -101,7 +101,7 @@ export const Avatar1 = () => {
           x="120"
           y="270"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -109,7 +109,7 @@ export const Avatar1 = () => {
           x="90"
           y="280"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -117,7 +117,7 @@ export const Avatar1 = () => {
           x="120"
           y="280"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -125,7 +125,7 @@ export const Avatar1 = () => {
           x="90"
           y="290"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -133,7 +133,7 @@ export const Avatar1 = () => {
           x="120"
           y="290"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -141,7 +141,7 @@ export const Avatar1 = () => {
           x="90"
           y="300"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -149,7 +149,7 @@ export const Avatar1 = () => {
           x="120"
           y="300"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -157,7 +157,7 @@ export const Avatar1 = () => {
           x="90"
           y="310"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -165,7 +165,7 @@ export const Avatar1 = () => {
           x="120"
           y="310"
           fill="#4b4949"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -173,7 +173,7 @@ export const Avatar1 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -182,7 +182,7 @@ export const Avatar1 = () => {
           x="130"
           y="230"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -190,7 +190,7 @@ export const Avatar1 = () => {
           x="170"
           y="230"
           fill="#027c92"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -198,7 +198,7 @@ export const Avatar1 = () => {
           x="130"
           y="240"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -206,7 +206,7 @@ export const Avatar1 = () => {
           x="170"
           y="240"
           fill="#027c92"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -214,7 +214,7 @@ export const Avatar1 = () => {
           x="130"
           y="250"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -222,7 +222,7 @@ export const Avatar1 = () => {
           x="150"
           y="250"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -230,7 +230,7 @@ export const Avatar1 = () => {
           x="170"
           y="250"
           fill="#027c92"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -238,7 +238,7 @@ export const Avatar1 = () => {
           x="130"
           y="270"
           fill="#e8705b"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -246,7 +246,7 @@ export const Avatar1 = () => {
           x="170"
           y="270"
           fill="#ffc110"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -254,7 +254,7 @@ export const Avatar1 = () => {
           x="130"
           y="280"
           fill="#e8705b"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -262,7 +262,7 @@ export const Avatar1 = () => {
           x="170"
           y="280"
           fill="#ffc110"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -270,7 +270,7 @@ export const Avatar1 = () => {
           x="130"
           y="290"
           fill="#e8705b"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -278,7 +278,7 @@ export const Avatar1 = () => {
           x="170"
           y="290"
           fill="#ffc110"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -286,7 +286,7 @@ export const Avatar1 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -295,7 +295,7 @@ export const Avatar1 = () => {
           x="140"
           y="10"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -303,7 +303,7 @@ export const Avatar1 = () => {
           x="120"
           y="20"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -311,7 +311,7 @@ export const Avatar1 = () => {
           x="140"
           y="20"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -319,7 +319,7 @@ export const Avatar1 = () => {
           x="160"
           y="20"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -327,7 +327,7 @@ export const Avatar1 = () => {
           x="110"
           y="30"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -335,7 +335,7 @@ export const Avatar1 = () => {
           x="120"
           y="30"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -343,7 +343,7 @@ export const Avatar1 = () => {
           x="130"
           y="30"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -351,7 +351,7 @@ export const Avatar1 = () => {
           x="140"
           y="30"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -359,7 +359,7 @@ export const Avatar1 = () => {
           x="160"
           y="30"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -367,7 +367,7 @@ export const Avatar1 = () => {
           x="180"
           y="30"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -375,7 +375,7 @@ export const Avatar1 = () => {
           x="200"
           y="30"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -383,7 +383,7 @@ export const Avatar1 = () => {
           x="100"
           y="40"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -391,7 +391,7 @@ export const Avatar1 = () => {
           x="90"
           y="50"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -399,7 +399,7 @@ export const Avatar1 = () => {
           x="100"
           y="50"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -407,7 +407,7 @@ export const Avatar1 = () => {
           x="110"
           y="50"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -415,7 +415,7 @@ export const Avatar1 = () => {
           x="130"
           y="50"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -423,7 +423,7 @@ export const Avatar1 = () => {
           x="140"
           y="50"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -431,7 +431,7 @@ export const Avatar1 = () => {
           x="160"
           y="50"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -439,7 +439,7 @@ export const Avatar1 = () => {
           x="170"
           y="50"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -447,7 +447,7 @@ export const Avatar1 = () => {
           x="90"
           y="60"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -455,7 +455,7 @@ export const Avatar1 = () => {
           x="100"
           y="60"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -463,7 +463,7 @@ export const Avatar1 = () => {
           x="110"
           y="60"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -471,7 +471,7 @@ export const Avatar1 = () => {
           x="170"
           y="60"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -479,7 +479,7 @@ export const Avatar1 = () => {
           x="190"
           y="60"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -487,7 +487,7 @@ export const Avatar1 = () => {
           x="210"
           y="60"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -495,7 +495,7 @@ export const Avatar1 = () => {
           x="220"
           y="60"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -503,7 +503,7 @@ export const Avatar1 = () => {
           x="80"
           y="70"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -511,7 +511,7 @@ export const Avatar1 = () => {
           x="90"
           y="70"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -519,7 +519,7 @@ export const Avatar1 = () => {
           x="100"
           y="70"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -527,7 +527,7 @@ export const Avatar1 = () => {
           x="120"
           y="70"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -535,7 +535,7 @@ export const Avatar1 = () => {
           x="130"
           y="70"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -543,7 +543,7 @@ export const Avatar1 = () => {
           x="170"
           y="70"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -551,7 +551,7 @@ export const Avatar1 = () => {
           x="190"
           y="70"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -559,7 +559,7 @@ export const Avatar1 = () => {
           x="220"
           y="70"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -567,7 +567,7 @@ export const Avatar1 = () => {
           x="230"
           y="70"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -575,7 +575,7 @@ export const Avatar1 = () => {
           x="80"
           y="80"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -583,7 +583,7 @@ export const Avatar1 = () => {
           x="90"
           y="80"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -591,7 +591,7 @@ export const Avatar1 = () => {
           x="100"
           y="80"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -599,7 +599,7 @@ export const Avatar1 = () => {
           x="220"
           y="80"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -607,7 +607,7 @@ export const Avatar1 = () => {
           x="230"
           y="80"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -615,7 +615,7 @@ export const Avatar1 = () => {
           x="80"
           y="90"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -623,7 +623,7 @@ export const Avatar1 = () => {
           x="90"
           y="90"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -631,7 +631,7 @@ export const Avatar1 = () => {
           x="100"
           y="90"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -639,7 +639,7 @@ export const Avatar1 = () => {
           x="210"
           y="90"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -647,7 +647,7 @@ export const Avatar1 = () => {
           x="220"
           y="90"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="160"
@@ -655,7 +655,7 @@ export const Avatar1 = () => {
           x="70"
           y="100"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -663,7 +663,7 @@ export const Avatar1 = () => {
           x="230"
           y="100"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -671,7 +671,7 @@ export const Avatar1 = () => {
           x="240"
           y="100"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="50"
@@ -679,7 +679,7 @@ export const Avatar1 = () => {
           x="70"
           y="110"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -687,7 +687,7 @@ export const Avatar1 = () => {
           x="120"
           y="110"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="100"
@@ -695,7 +695,7 @@ export const Avatar1 = () => {
           x="130"
           y="110"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -703,7 +703,7 @@ export const Avatar1 = () => {
           x="230"
           y="110"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -711,7 +711,7 @@ export const Avatar1 = () => {
           x="240"
           y="110"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -719,7 +719,7 @@ export const Avatar1 = () => {
           x="70"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -727,7 +727,7 @@ export const Avatar1 = () => {
           x="90"
           y="120"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="100"
@@ -735,7 +735,7 @@ export const Avatar1 = () => {
           x="100"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -743,7 +743,7 @@ export const Avatar1 = () => {
           x="200"
           y="120"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -751,7 +751,7 @@ export const Avatar1 = () => {
           x="210"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -759,7 +759,7 @@ export const Avatar1 = () => {
           x="230"
           y="120"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -767,7 +767,7 @@ export const Avatar1 = () => {
           x="240"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -775,7 +775,7 @@ export const Avatar1 = () => {
           x="70"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -783,7 +783,7 @@ export const Avatar1 = () => {
           x="90"
           y="130"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="100"
@@ -791,7 +791,7 @@ export const Avatar1 = () => {
           x="100"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -799,7 +799,7 @@ export const Avatar1 = () => {
           x="200"
           y="130"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -807,7 +807,7 @@ export const Avatar1 = () => {
           x="210"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -815,7 +815,7 @@ export const Avatar1 = () => {
           x="230"
           y="130"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -823,7 +823,7 @@ export const Avatar1 = () => {
           x="240"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="180"
@@ -831,7 +831,7 @@ export const Avatar1 = () => {
           x="70"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="180"
@@ -839,7 +839,7 @@ export const Avatar1 = () => {
           x="70"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -847,7 +847,7 @@ export const Avatar1 = () => {
           x="70"
           y="160"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -855,7 +855,7 @@ export const Avatar1 = () => {
           x="210"
           y="160"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -863,7 +863,7 @@ export const Avatar1 = () => {
           x="230"
           y="160"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="160"
@@ -871,7 +871,7 @@ export const Avatar1 = () => {
           x="80"
           y="170"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -879,7 +879,7 @@ export const Avatar1 = () => {
           x="80"
           y="180"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -887,7 +887,7 @@ export const Avatar1 = () => {
           x="110"
           y="180"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="80"
@@ -895,7 +895,7 @@ export const Avatar1 = () => {
           x="120"
           y="180"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -903,7 +903,7 @@ export const Avatar1 = () => {
           x="200"
           y="180"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -911,7 +911,7 @@ export const Avatar1 = () => {
           x="210"
           y="180"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="50"
@@ -919,7 +919,7 @@ export const Avatar1 = () => {
           x="90"
           y="190"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -927,7 +927,7 @@ export const Avatar1 = () => {
           x="140"
           y="190"
           fill="#eed811"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="70"
@@ -935,7 +935,7 @@ export const Avatar1 = () => {
           x="160"
           y="190"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -943,7 +943,7 @@ export const Avatar1 = () => {
           x="100"
           y="200"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="50"
@@ -951,7 +951,7 @@ export const Avatar1 = () => {
           x="120"
           y="210"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -959,7 +959,7 @@ export const Avatar1 = () => {
           x="170"
           y="210"
           fill="#f9e8dd"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -967,7 +967,7 @@ export const Avatar1 = () => {
           x="180"
           y="210"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -975,7 +975,7 @@ export const Avatar1 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -984,7 +984,7 @@ export const Avatar1 = () => {
           x="100"
           y="110"
           fill="#068940"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -992,7 +992,7 @@ export const Avatar1 = () => {
           x="170"
           y="110"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1000,7 +1000,7 @@ export const Avatar1 = () => {
           x="100"
           y="120"
           fill="#068940"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1008,7 +1008,7 @@ export const Avatar1 = () => {
           x="110"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1016,7 +1016,7 @@ export const Avatar1 = () => {
           x="130"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1024,7 +1024,7 @@ export const Avatar1 = () => {
           x="150"
           y="120"
           fill="#068940"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1032,7 +1032,7 @@ export const Avatar1 = () => {
           x="170"
           y="120"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1040,7 +1040,7 @@ export const Avatar1 = () => {
           x="180"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1048,7 +1048,7 @@ export const Avatar1 = () => {
           x="200"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1056,7 +1056,7 @@ export const Avatar1 = () => {
           x="220"
           y="120"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1064,7 +1064,7 @@ export const Avatar1 = () => {
           x="70"
           y="130"
           fill="#254efb"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1072,7 +1072,7 @@ export const Avatar1 = () => {
           x="100"
           y="130"
           fill="#068940"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1080,7 +1080,7 @@ export const Avatar1 = () => {
           x="110"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1088,7 +1088,7 @@ export const Avatar1 = () => {
           x="130"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1096,7 +1096,7 @@ export const Avatar1 = () => {
           x="150"
           y="130"
           fill="#068940"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1104,7 +1104,7 @@ export const Avatar1 = () => {
           x="160"
           y="130"
           fill="#254efb"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1112,7 +1112,7 @@ export const Avatar1 = () => {
           x="170"
           y="130"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1120,7 +1120,7 @@ export const Avatar1 = () => {
           x="180"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1128,7 +1128,7 @@ export const Avatar1 = () => {
           x="200"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1136,7 +1136,7 @@ export const Avatar1 = () => {
           x="220"
           y="130"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1144,7 +1144,7 @@ export const Avatar1 = () => {
           x="70"
           y="140"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1152,7 +1152,7 @@ export const Avatar1 = () => {
           x="100"
           y="140"
           fill="#068940"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1160,7 +1160,7 @@ export const Avatar1 = () => {
           x="110"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1168,7 +1168,7 @@ export const Avatar1 = () => {
           x="130"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1176,7 +1176,7 @@ export const Avatar1 = () => {
           x="150"
           y="140"
           fill="#068940"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1184,7 +1184,7 @@ export const Avatar1 = () => {
           x="170"
           y="140"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1192,7 +1192,7 @@ export const Avatar1 = () => {
           x="180"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1200,7 +1200,7 @@ export const Avatar1 = () => {
           x="200"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1208,7 +1208,7 @@ export const Avatar1 = () => {
           x="220"
           y="140"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1216,7 +1216,7 @@ export const Avatar1 = () => {
           x="70"
           y="150"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1224,7 +1224,7 @@ export const Avatar1 = () => {
           x="100"
           y="150"
           fill="#068940"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1232,7 +1232,7 @@ export const Avatar1 = () => {
           x="110"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1240,7 +1240,7 @@ export const Avatar1 = () => {
           x="130"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1248,7 +1248,7 @@ export const Avatar1 = () => {
           x="150"
           y="150"
           fill="#068940"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1256,7 +1256,7 @@ export const Avatar1 = () => {
           x="170"
           y="150"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1264,7 +1264,7 @@ export const Avatar1 = () => {
           x="180"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1272,7 +1272,7 @@ export const Avatar1 = () => {
           x="200"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1280,7 +1280,7 @@ export const Avatar1 = () => {
           x="220"
           y="150"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -1288,7 +1288,7 @@ export const Avatar1 = () => {
           x="100"
           y="160"
           fill="#068940"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -1296,7 +1296,7 @@ export const Avatar1 = () => {
           x="170"
           y="160"
           fill="#257ced"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
     </svg>
@@ -1316,7 +1316,7 @@ export const Avatar2 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="#e1d7d5" />
       </g>
@@ -1325,7 +1325,7 @@ export const Avatar2 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -1334,7 +1334,7 @@ export const Avatar2 = () => {
           x="90"
           y="210"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -1342,7 +1342,7 @@ export const Avatar2 = () => {
           x="90"
           y="220"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -1350,7 +1350,7 @@ export const Avatar2 = () => {
           x="90"
           y="230"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -1358,7 +1358,7 @@ export const Avatar2 = () => {
           x="90"
           y="240"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1366,7 +1366,7 @@ export const Avatar2 = () => {
           x="90"
           y="250"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -1374,7 +1374,7 @@ export const Avatar2 = () => {
           x="120"
           y="250"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1382,7 +1382,7 @@ export const Avatar2 = () => {
           x="90"
           y="260"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -1390,7 +1390,7 @@ export const Avatar2 = () => {
           x="120"
           y="260"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1398,7 +1398,7 @@ export const Avatar2 = () => {
           x="90"
           y="270"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -1406,7 +1406,7 @@ export const Avatar2 = () => {
           x="120"
           y="270"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1414,7 +1414,7 @@ export const Avatar2 = () => {
           x="90"
           y="280"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -1422,7 +1422,7 @@ export const Avatar2 = () => {
           x="120"
           y="280"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1430,7 +1430,7 @@ export const Avatar2 = () => {
           x="90"
           y="290"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -1438,7 +1438,7 @@ export const Avatar2 = () => {
           x="120"
           y="290"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1446,7 +1446,7 @@ export const Avatar2 = () => {
           x="90"
           y="300"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -1454,7 +1454,7 @@ export const Avatar2 = () => {
           x="120"
           y="300"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1462,7 +1462,7 @@ export const Avatar2 = () => {
           x="90"
           y="310"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -1470,7 +1470,7 @@ export const Avatar2 = () => {
           x="120"
           y="310"
           fill="#5a423f"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -1478,7 +1478,7 @@ export const Avatar2 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -1487,7 +1487,7 @@ export const Avatar2 = () => {
           x="160"
           y="230"
           fill="#ffc110"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1495,7 +1495,7 @@ export const Avatar2 = () => {
           x="140"
           y="240"
           fill="#ffc110"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1503,7 +1503,7 @@ export const Avatar2 = () => {
           x="180"
           y="240"
           fill="#ffc110"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1511,7 +1511,7 @@ export const Avatar2 = () => {
           x="150"
           y="250"
           fill="#ffc110"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1519,7 +1519,7 @@ export const Avatar2 = () => {
           x="130"
           y="260"
           fill="#ffc110"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1527,7 +1527,7 @@ export const Avatar2 = () => {
           x="150"
           y="260"
           fill="#ffc110"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1535,7 +1535,7 @@ export const Avatar2 = () => {
           x="190"
           y="260"
           fill="#ffc110"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -1543,7 +1543,7 @@ export const Avatar2 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -1552,7 +1552,7 @@ export const Avatar2 = () => {
           x="50"
           y="60"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1560,7 +1560,7 @@ export const Avatar2 = () => {
           x="50"
           y="70"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1568,7 +1568,7 @@ export const Avatar2 = () => {
           x="50"
           y="80"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1576,7 +1576,7 @@ export const Avatar2 = () => {
           x="50"
           y="90"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1584,7 +1584,7 @@ export const Avatar2 = () => {
           x="50"
           y="100"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1592,7 +1592,7 @@ export const Avatar2 = () => {
           x="40"
           y="110"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1600,7 +1600,7 @@ export const Avatar2 = () => {
           x="40"
           y="120"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1608,7 +1608,7 @@ export const Avatar2 = () => {
           x="40"
           y="130"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1616,7 +1616,7 @@ export const Avatar2 = () => {
           x="40"
           y="140"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1624,7 +1624,7 @@ export const Avatar2 = () => {
           x="40"
           y="150"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="240"
@@ -1632,7 +1632,7 @@ export const Avatar2 = () => {
           x="30"
           y="160"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1640,7 +1640,7 @@ export const Avatar2 = () => {
           x="30"
           y="170"
           fill="#fbc800"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1648,7 +1648,7 @@ export const Avatar2 = () => {
           x="30"
           y="180"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1656,7 +1656,7 @@ export const Avatar2 = () => {
           x="30"
           y="190"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1664,7 +1664,7 @@ export const Avatar2 = () => {
           x="40"
           y="190"
           fill="#fbc800"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1672,7 +1672,7 @@ export const Avatar2 = () => {
           x="70"
           y="190"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1680,7 +1680,7 @@ export const Avatar2 = () => {
           x="100"
           y="190"
           fill="#fbc800"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1688,7 +1688,7 @@ export const Avatar2 = () => {
           x="130"
           y="190"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1696,7 +1696,7 @@ export const Avatar2 = () => {
           x="160"
           y="190"
           fill="#fbc800"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1704,7 +1704,7 @@ export const Avatar2 = () => {
           x="190"
           y="190"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1712,7 +1712,7 @@ export const Avatar2 = () => {
           x="220"
           y="190"
           fill="#fbc800"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1720,7 +1720,7 @@ export const Avatar2 = () => {
           x="250"
           y="190"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="230"
@@ -1728,7 +1728,7 @@ export const Avatar2 = () => {
           x="30"
           y="200"
           fill="#4a5358"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -1736,7 +1736,7 @@ export const Avatar2 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -1745,7 +1745,7 @@ export const Avatar2 = () => {
           x="100"
           y="110"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -1753,7 +1753,7 @@ export const Avatar2 = () => {
           x="170"
           y="110"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1761,7 +1761,7 @@ export const Avatar2 = () => {
           x="100"
           y="120"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1769,7 +1769,7 @@ export const Avatar2 = () => {
           x="110"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1777,7 +1777,7 @@ export const Avatar2 = () => {
           x="130"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1785,7 +1785,7 @@ export const Avatar2 = () => {
           x="150"
           y="120"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1793,7 +1793,7 @@ export const Avatar2 = () => {
           x="170"
           y="120"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1801,7 +1801,7 @@ export const Avatar2 = () => {
           x="180"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1809,7 +1809,7 @@ export const Avatar2 = () => {
           x="200"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1817,7 +1817,7 @@ export const Avatar2 = () => {
           x="220"
           y="120"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -1825,7 +1825,7 @@ export const Avatar2 = () => {
           x="70"
           y="130"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1833,7 +1833,7 @@ export const Avatar2 = () => {
           x="110"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1841,7 +1841,7 @@ export const Avatar2 = () => {
           x="130"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -1849,7 +1849,7 @@ export const Avatar2 = () => {
           x="150"
           y="130"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1857,7 +1857,7 @@ export const Avatar2 = () => {
           x="180"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1865,7 +1865,7 @@ export const Avatar2 = () => {
           x="200"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1873,7 +1873,7 @@ export const Avatar2 = () => {
           x="220"
           y="130"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1881,7 +1881,7 @@ export const Avatar2 = () => {
           x="70"
           y="140"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1889,7 +1889,7 @@ export const Avatar2 = () => {
           x="100"
           y="140"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1897,7 +1897,7 @@ export const Avatar2 = () => {
           x="110"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1905,7 +1905,7 @@ export const Avatar2 = () => {
           x="130"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1913,7 +1913,7 @@ export const Avatar2 = () => {
           x="150"
           y="140"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1921,7 +1921,7 @@ export const Avatar2 = () => {
           x="170"
           y="140"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1929,7 +1929,7 @@ export const Avatar2 = () => {
           x="180"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1937,7 +1937,7 @@ export const Avatar2 = () => {
           x="200"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1945,7 +1945,7 @@ export const Avatar2 = () => {
           x="220"
           y="140"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1953,7 +1953,7 @@ export const Avatar2 = () => {
           x="70"
           y="150"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1961,7 +1961,7 @@ export const Avatar2 = () => {
           x="100"
           y="150"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1969,7 +1969,7 @@ export const Avatar2 = () => {
           x="110"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -1977,7 +1977,7 @@ export const Avatar2 = () => {
           x="130"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1985,7 +1985,7 @@ export const Avatar2 = () => {
           x="150"
           y="150"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -1993,7 +1993,7 @@ export const Avatar2 = () => {
           x="170"
           y="150"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2001,7 +2001,7 @@ export const Avatar2 = () => {
           x="180"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2009,7 +2009,7 @@ export const Avatar2 = () => {
           x="200"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2017,7 +2017,7 @@ export const Avatar2 = () => {
           x="220"
           y="150"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -2025,7 +2025,7 @@ export const Avatar2 = () => {
           x="100"
           y="160"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -2033,7 +2033,7 @@ export const Avatar2 = () => {
           x="170"
           y="160"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
     </svg>
@@ -2053,7 +2053,7 @@ export const Avatar3 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="#d5d7e1" />
       </g>
@@ -2062,7 +2062,7 @@ export const Avatar3 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -2071,7 +2071,7 @@ export const Avatar3 = () => {
           x="90"
           y="210"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -2079,7 +2079,7 @@ export const Avatar3 = () => {
           x="90"
           y="220"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -2087,7 +2087,7 @@ export const Avatar3 = () => {
           x="90"
           y="230"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -2095,7 +2095,7 @@ export const Avatar3 = () => {
           x="90"
           y="240"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2103,7 +2103,7 @@ export const Avatar3 = () => {
           x="90"
           y="250"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -2111,7 +2111,7 @@ export const Avatar3 = () => {
           x="120"
           y="250"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2119,7 +2119,7 @@ export const Avatar3 = () => {
           x="90"
           y="260"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -2127,7 +2127,7 @@ export const Avatar3 = () => {
           x="120"
           y="260"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2135,7 +2135,7 @@ export const Avatar3 = () => {
           x="90"
           y="270"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -2143,7 +2143,7 @@ export const Avatar3 = () => {
           x="120"
           y="270"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2151,7 +2151,7 @@ export const Avatar3 = () => {
           x="90"
           y="280"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -2159,7 +2159,7 @@ export const Avatar3 = () => {
           x="120"
           y="280"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2167,7 +2167,7 @@ export const Avatar3 = () => {
           x="90"
           y="290"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -2175,7 +2175,7 @@ export const Avatar3 = () => {
           x="120"
           y="290"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2183,7 +2183,7 @@ export const Avatar3 = () => {
           x="90"
           y="300"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -2191,7 +2191,7 @@ export const Avatar3 = () => {
           x="120"
           y="300"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2199,7 +2199,7 @@ export const Avatar3 = () => {
           x="90"
           y="310"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -2207,7 +2207,7 @@ export const Avatar3 = () => {
           x="120"
           y="310"
           fill="#cfc2ab"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -2215,7 +2215,7 @@ export const Avatar3 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -2224,7 +2224,7 @@ export const Avatar3 = () => {
           x="120"
           y="240"
           fill="#2b83f6"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2232,7 +2232,7 @@ export const Avatar3 = () => {
           x="140"
           y="240"
           fill="#2b83f6"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2240,7 +2240,7 @@ export const Avatar3 = () => {
           x="160"
           y="240"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2248,7 +2248,7 @@ export const Avatar3 = () => {
           x="180"
           y="240"
           fill="#2b83f6"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2256,7 +2256,7 @@ export const Avatar3 = () => {
           x="200"
           y="240"
           fill="#2b83f6"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2264,7 +2264,7 @@ export const Avatar3 = () => {
           x="130"
           y="250"
           fill="#2b83f6"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2272,7 +2272,7 @@ export const Avatar3 = () => {
           x="150"
           y="250"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2280,7 +2280,7 @@ export const Avatar3 = () => {
           x="190"
           y="250"
           fill="#2b83f6"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2288,7 +2288,7 @@ export const Avatar3 = () => {
           x="130"
           y="260"
           fill="#2b83f6"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2296,7 +2296,7 @@ export const Avatar3 = () => {
           x="150"
           y="260"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2304,7 +2304,7 @@ export const Avatar3 = () => {
           x="170"
           y="260"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2312,7 +2312,7 @@ export const Avatar3 = () => {
           x="190"
           y="260"
           fill="#2b83f6"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -2320,7 +2320,7 @@ export const Avatar3 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -2329,7 +2329,7 @@ export const Avatar3 = () => {
           x="90"
           y="40"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2337,7 +2337,7 @@ export const Avatar3 = () => {
           x="140"
           y="40"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -2345,7 +2345,7 @@ export const Avatar3 = () => {
           x="180"
           y="40"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2353,7 +2353,7 @@ export const Avatar3 = () => {
           x="80"
           y="50"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2361,7 +2361,7 @@ export const Avatar3 = () => {
           x="90"
           y="50"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2369,7 +2369,7 @@ export const Avatar3 = () => {
           x="110"
           y="50"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2377,7 +2377,7 @@ export const Avatar3 = () => {
           x="140"
           y="50"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="90"
@@ -2385,7 +2385,7 @@ export const Avatar3 = () => {
           x="150"
           y="50"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2393,7 +2393,7 @@ export const Avatar3 = () => {
           x="80"
           y="60"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2401,7 +2401,7 @@ export const Avatar3 = () => {
           x="90"
           y="60"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="90"
@@ -2409,7 +2409,7 @@ export const Avatar3 = () => {
           x="110"
           y="60"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2417,7 +2417,7 @@ export const Avatar3 = () => {
           x="200"
           y="60"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2425,7 +2425,7 @@ export const Avatar3 = () => {
           x="230"
           y="60"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="70"
@@ -2433,7 +2433,7 @@ export const Avatar3 = () => {
           x="90"
           y="70"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2441,7 +2441,7 @@ export const Avatar3 = () => {
           x="160"
           y="70"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2449,7 +2449,7 @@ export const Avatar3 = () => {
           x="180"
           y="70"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2457,7 +2457,7 @@ export const Avatar3 = () => {
           x="200"
           y="70"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2465,7 +2465,7 @@ export const Avatar3 = () => {
           x="230"
           y="70"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2473,7 +2473,7 @@ export const Avatar3 = () => {
           x="90"
           y="80"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2481,7 +2481,7 @@ export const Avatar3 = () => {
           x="120"
           y="80"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2489,7 +2489,7 @@ export const Avatar3 = () => {
           x="140"
           y="80"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2497,7 +2497,7 @@ export const Avatar3 = () => {
           x="160"
           y="80"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2505,7 +2505,7 @@ export const Avatar3 = () => {
           x="180"
           y="80"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2513,7 +2513,7 @@ export const Avatar3 = () => {
           x="200"
           y="80"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2521,7 +2521,7 @@ export const Avatar3 = () => {
           x="230"
           y="80"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2529,7 +2529,7 @@ export const Avatar3 = () => {
           x="90"
           y="90"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2537,7 +2537,7 @@ export const Avatar3 = () => {
           x="120"
           y="90"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="100"
@@ -2545,7 +2545,7 @@ export const Avatar3 = () => {
           x="140"
           y="90"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="160"
@@ -2553,7 +2553,7 @@ export const Avatar3 = () => {
           x="80"
           y="100"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="160"
@@ -2561,7 +2561,7 @@ export const Avatar3 = () => {
           x="80"
           y="110"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="170"
@@ -2569,7 +2569,7 @@ export const Avatar3 = () => {
           x="80"
           y="120"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="170"
@@ -2577,7 +2577,7 @@ export const Avatar3 = () => {
           x="80"
           y="130"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="170"
@@ -2585,7 +2585,7 @@ export const Avatar3 = () => {
           x="80"
           y="140"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="170"
@@ -2593,7 +2593,7 @@ export const Avatar3 = () => {
           x="80"
           y="150"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="160"
@@ -2601,7 +2601,7 @@ export const Avatar3 = () => {
           x="80"
           y="160"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2609,7 +2609,7 @@ export const Avatar3 = () => {
           x="80"
           y="170"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2617,7 +2617,7 @@ export const Avatar3 = () => {
           x="90"
           y="170"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="130"
@@ -2625,7 +2625,7 @@ export const Avatar3 = () => {
           x="110"
           y="170"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2633,7 +2633,7 @@ export const Avatar3 = () => {
           x="80"
           y="180"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2641,7 +2641,7 @@ export const Avatar3 = () => {
           x="90"
           y="180"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2649,7 +2649,7 @@ export const Avatar3 = () => {
           x="110"
           y="180"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="50"
@@ -2657,7 +2657,7 @@ export const Avatar3 = () => {
           x="140"
           y="180"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -2665,7 +2665,7 @@ export const Avatar3 = () => {
           x="190"
           y="180"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="130"
@@ -2673,7 +2673,7 @@ export const Avatar3 = () => {
           x="90"
           y="190"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2681,7 +2681,7 @@ export const Avatar3 = () => {
           x="220"
           y="190"
           fill="#c4da53"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2689,7 +2689,7 @@ export const Avatar3 = () => {
           x="230"
           y="190"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -2697,7 +2697,7 @@ export const Avatar3 = () => {
           x="90"
           y="200"
           fill="#fff671"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -2705,7 +2705,7 @@ export const Avatar3 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -2714,7 +2714,7 @@ export const Avatar3 = () => {
           x="100"
           y="110"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -2722,7 +2722,7 @@ export const Avatar3 = () => {
           x="170"
           y="110"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2730,7 +2730,7 @@ export const Avatar3 = () => {
           x="100"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2738,7 +2738,7 @@ export const Avatar3 = () => {
           x="110"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2746,7 +2746,7 @@ export const Avatar3 = () => {
           x="130"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2754,7 +2754,7 @@ export const Avatar3 = () => {
           x="170"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2762,7 +2762,7 @@ export const Avatar3 = () => {
           x="180"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2770,7 +2770,7 @@ export const Avatar3 = () => {
           x="200"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -2778,7 +2778,7 @@ export const Avatar3 = () => {
           x="70"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2786,7 +2786,7 @@ export const Avatar3 = () => {
           x="110"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="50"
@@ -2794,7 +2794,7 @@ export const Avatar3 = () => {
           x="130"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2802,7 +2802,7 @@ export const Avatar3 = () => {
           x="180"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2810,7 +2810,7 @@ export const Avatar3 = () => {
           x="200"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2818,7 +2818,7 @@ export const Avatar3 = () => {
           x="70"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2826,7 +2826,7 @@ export const Avatar3 = () => {
           x="100"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2834,7 +2834,7 @@ export const Avatar3 = () => {
           x="110"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2842,7 +2842,7 @@ export const Avatar3 = () => {
           x="130"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2850,7 +2850,7 @@ export const Avatar3 = () => {
           x="170"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2858,7 +2858,7 @@ export const Avatar3 = () => {
           x="180"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2866,7 +2866,7 @@ export const Avatar3 = () => {
           x="200"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2874,7 +2874,7 @@ export const Avatar3 = () => {
           x="70"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2882,7 +2882,7 @@ export const Avatar3 = () => {
           x="100"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2890,7 +2890,7 @@ export const Avatar3 = () => {
           x="110"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2898,7 +2898,7 @@ export const Avatar3 = () => {
           x="130"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -2906,7 +2906,7 @@ export const Avatar3 = () => {
           x="170"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -2914,7 +2914,7 @@ export const Avatar3 = () => {
           x="180"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -2922,7 +2922,7 @@ export const Avatar3 = () => {
           x="200"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -2930,7 +2930,7 @@ export const Avatar3 = () => {
           x="100"
           y="160"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -2938,7 +2938,7 @@ export const Avatar3 = () => {
           x="170"
           y="160"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
     </svg>
@@ -2958,7 +2958,7 @@ export const Avatar4 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="#e1d7d5" />
       </g>
@@ -2967,7 +2967,7 @@ export const Avatar4 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -2976,7 +2976,7 @@ export const Avatar4 = () => {
           x="90"
           y="210"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -2984,7 +2984,7 @@ export const Avatar4 = () => {
           x="90"
           y="220"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -2992,7 +2992,7 @@ export const Avatar4 = () => {
           x="90"
           y="230"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -3000,7 +3000,7 @@ export const Avatar4 = () => {
           x="90"
           y="240"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3008,7 +3008,7 @@ export const Avatar4 = () => {
           x="90"
           y="250"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -3016,7 +3016,7 @@ export const Avatar4 = () => {
           x="120"
           y="250"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3024,7 +3024,7 @@ export const Avatar4 = () => {
           x="90"
           y="260"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -3032,7 +3032,7 @@ export const Avatar4 = () => {
           x="120"
           y="260"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3040,7 +3040,7 @@ export const Avatar4 = () => {
           x="90"
           y="270"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -3048,7 +3048,7 @@ export const Avatar4 = () => {
           x="120"
           y="270"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3056,7 +3056,7 @@ export const Avatar4 = () => {
           x="90"
           y="280"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -3064,7 +3064,7 @@ export const Avatar4 = () => {
           x="120"
           y="280"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3072,7 +3072,7 @@ export const Avatar4 = () => {
           x="90"
           y="290"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -3080,7 +3080,7 @@ export const Avatar4 = () => {
           x="120"
           y="290"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3088,7 +3088,7 @@ export const Avatar4 = () => {
           x="90"
           y="300"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -3096,7 +3096,7 @@ export const Avatar4 = () => {
           x="120"
           y="300"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3104,7 +3104,7 @@ export const Avatar4 = () => {
           x="90"
           y="310"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -3112,7 +3112,7 @@ export const Avatar4 = () => {
           x="120"
           y="310"
           fill="#9f21a0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -3120,7 +3120,7 @@ export const Avatar4 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -3129,7 +3129,7 @@ export const Avatar4 = () => {
           x="90"
           y="210"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -3137,7 +3137,7 @@ export const Avatar4 = () => {
           x="90"
           y="220"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -3145,7 +3145,7 @@ export const Avatar4 = () => {
           x="90"
           y="230"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3153,7 +3153,7 @@ export const Avatar4 = () => {
           x="90"
           y="270"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -3161,7 +3161,7 @@ export const Avatar4 = () => {
           x="120"
           y="270"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3169,7 +3169,7 @@ export const Avatar4 = () => {
           x="90"
           y="280"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -3177,7 +3177,7 @@ export const Avatar4 = () => {
           x="120"
           y="280"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3185,7 +3185,7 @@ export const Avatar4 = () => {
           x="90"
           y="290"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -3193,7 +3193,7 @@ export const Avatar4 = () => {
           x="120"
           y="290"
           fill="#f3322c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -3201,7 +3201,7 @@ export const Avatar4 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -3210,7 +3210,7 @@ export const Avatar4 = () => {
           x="140"
           y="30"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3218,7 +3218,7 @@ export const Avatar4 = () => {
           x="110"
           y="40"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3226,7 +3226,7 @@ export const Avatar4 = () => {
           x="120"
           y="40"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3234,7 +3234,7 @@ export const Avatar4 = () => {
           x="130"
           y="40"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3242,7 +3242,7 @@ export const Avatar4 = () => {
           x="150"
           y="40"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3250,7 +3250,7 @@ export const Avatar4 = () => {
           x="170"
           y="40"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3258,7 +3258,7 @@ export const Avatar4 = () => {
           x="190"
           y="40"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3266,7 +3266,7 @@ export const Avatar4 = () => {
           x="200"
           y="40"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3274,7 +3274,7 @@ export const Avatar4 = () => {
           x="90"
           y="50"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3282,7 +3282,7 @@ export const Avatar4 = () => {
           x="120"
           y="50"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3290,7 +3290,7 @@ export const Avatar4 = () => {
           x="130"
           y="50"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3298,7 +3298,7 @@ export const Avatar4 = () => {
           x="150"
           y="50"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3306,7 +3306,7 @@ export const Avatar4 = () => {
           x="170"
           y="50"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3314,7 +3314,7 @@ export const Avatar4 = () => {
           x="190"
           y="50"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3322,7 +3322,7 @@ export const Avatar4 = () => {
           x="200"
           y="50"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3330,7 +3330,7 @@ export const Avatar4 = () => {
           x="80"
           y="60"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3338,7 +3338,7 @@ export const Avatar4 = () => {
           x="90"
           y="60"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3346,7 +3346,7 @@ export const Avatar4 = () => {
           x="100"
           y="60"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3354,7 +3354,7 @@ export const Avatar4 = () => {
           x="130"
           y="60"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3362,7 +3362,7 @@ export const Avatar4 = () => {
           x="140"
           y="60"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3370,7 +3370,7 @@ export const Avatar4 = () => {
           x="180"
           y="60"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3378,7 +3378,7 @@ export const Avatar4 = () => {
           x="190"
           y="60"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3386,7 +3386,7 @@ export const Avatar4 = () => {
           x="220"
           y="60"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3394,7 +3394,7 @@ export const Avatar4 = () => {
           x="230"
           y="60"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3402,7 +3402,7 @@ export const Avatar4 = () => {
           x="70"
           y="70"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3410,7 +3410,7 @@ export const Avatar4 = () => {
           x="100"
           y="70"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3418,7 +3418,7 @@ export const Avatar4 = () => {
           x="110"
           y="70"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3426,7 +3426,7 @@ export const Avatar4 = () => {
           x="130"
           y="70"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3434,7 +3434,7 @@ export const Avatar4 = () => {
           x="140"
           y="70"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3442,7 +3442,7 @@ export const Avatar4 = () => {
           x="180"
           y="70"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3450,7 +3450,7 @@ export const Avatar4 = () => {
           x="190"
           y="70"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3458,7 +3458,7 @@ export const Avatar4 = () => {
           x="210"
           y="70"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3466,7 +3466,7 @@ export const Avatar4 = () => {
           x="220"
           y="70"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3474,7 +3474,7 @@ export const Avatar4 = () => {
           x="70"
           y="80"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="100"
@@ -3482,7 +3482,7 @@ export const Avatar4 = () => {
           x="110"
           y="80"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3490,7 +3490,7 @@ export const Avatar4 = () => {
           x="210"
           y="80"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3498,7 +3498,7 @@ export const Avatar4 = () => {
           x="230"
           y="80"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3506,7 +3506,7 @@ export const Avatar4 = () => {
           x="240"
           y="80"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3514,7 +3514,7 @@ export const Avatar4 = () => {
           x="60"
           y="90"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3522,7 +3522,7 @@ export const Avatar4 = () => {
           x="100"
           y="90"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="100"
@@ -3530,7 +3530,7 @@ export const Avatar4 = () => {
           x="110"
           y="90"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3538,7 +3538,7 @@ export const Avatar4 = () => {
           x="210"
           y="90"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3546,7 +3546,7 @@ export const Avatar4 = () => {
           x="220"
           y="90"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3554,7 +3554,7 @@ export const Avatar4 = () => {
           x="60"
           y="100"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3562,7 +3562,7 @@ export const Avatar4 = () => {
           x="90"
           y="100"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -3570,7 +3570,7 @@ export const Avatar4 = () => {
           x="100"
           y="100"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3578,7 +3578,7 @@ export const Avatar4 = () => {
           x="220"
           y="100"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3586,7 +3586,7 @@ export const Avatar4 = () => {
           x="230"
           y="100"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3594,7 +3594,7 @@ export const Avatar4 = () => {
           x="240"
           y="100"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3602,7 +3602,7 @@ export const Avatar4 = () => {
           x="250"
           y="100"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3610,7 +3610,7 @@ export const Avatar4 = () => {
           x="60"
           y="110"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3618,7 +3618,7 @@ export const Avatar4 = () => {
           x="90"
           y="110"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -3626,7 +3626,7 @@ export const Avatar4 = () => {
           x="100"
           y="110"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3634,7 +3634,7 @@ export const Avatar4 = () => {
           x="220"
           y="110"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3642,7 +3642,7 @@ export const Avatar4 = () => {
           x="230"
           y="110"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3650,7 +3650,7 @@ export const Avatar4 = () => {
           x="240"
           y="110"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3658,7 +3658,7 @@ export const Avatar4 = () => {
           x="250"
           y="110"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3666,7 +3666,7 @@ export const Avatar4 = () => {
           x="50"
           y="120"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3674,7 +3674,7 @@ export const Avatar4 = () => {
           x="90"
           y="120"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -3682,7 +3682,7 @@ export const Avatar4 = () => {
           x="100"
           y="120"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3690,7 +3690,7 @@ export const Avatar4 = () => {
           x="220"
           y="120"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3698,7 +3698,7 @@ export const Avatar4 = () => {
           x="230"
           y="120"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3706,7 +3706,7 @@ export const Avatar4 = () => {
           x="240"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3714,7 +3714,7 @@ export const Avatar4 = () => {
           x="250"
           y="120"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3722,7 +3722,7 @@ export const Avatar4 = () => {
           x="50"
           y="130"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3730,7 +3730,7 @@ export const Avatar4 = () => {
           x="90"
           y="130"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -3738,7 +3738,7 @@ export const Avatar4 = () => {
           x="100"
           y="130"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3746,7 +3746,7 @@ export const Avatar4 = () => {
           x="220"
           y="130"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3754,7 +3754,7 @@ export const Avatar4 = () => {
           x="230"
           y="130"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3762,7 +3762,7 @@ export const Avatar4 = () => {
           x="250"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3770,7 +3770,7 @@ export const Avatar4 = () => {
           x="260"
           y="130"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3778,7 +3778,7 @@ export const Avatar4 = () => {
           x="50"
           y="140"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3786,7 +3786,7 @@ export const Avatar4 = () => {
           x="90"
           y="140"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -3794,7 +3794,7 @@ export const Avatar4 = () => {
           x="100"
           y="140"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3802,7 +3802,7 @@ export const Avatar4 = () => {
           x="220"
           y="140"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3810,7 +3810,7 @@ export const Avatar4 = () => {
           x="230"
           y="140"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3818,7 +3818,7 @@ export const Avatar4 = () => {
           x="250"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3826,7 +3826,7 @@ export const Avatar4 = () => {
           x="260"
           y="140"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3834,7 +3834,7 @@ export const Avatar4 = () => {
           x="50"
           y="150"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3842,7 +3842,7 @@ export const Avatar4 = () => {
           x="90"
           y="150"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -3850,7 +3850,7 @@ export const Avatar4 = () => {
           x="100"
           y="150"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3858,7 +3858,7 @@ export const Avatar4 = () => {
           x="220"
           y="150"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3866,7 +3866,7 @@ export const Avatar4 = () => {
           x="230"
           y="150"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3874,7 +3874,7 @@ export const Avatar4 = () => {
           x="60"
           y="160"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3882,7 +3882,7 @@ export const Avatar4 = () => {
           x="90"
           y="160"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -3890,7 +3890,7 @@ export const Avatar4 = () => {
           x="100"
           y="160"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3898,7 +3898,7 @@ export const Avatar4 = () => {
           x="220"
           y="160"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -3906,7 +3906,7 @@ export const Avatar4 = () => {
           x="230"
           y="160"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3914,7 +3914,7 @@ export const Avatar4 = () => {
           x="60"
           y="170"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3922,7 +3922,7 @@ export const Avatar4 = () => {
           x="90"
           y="170"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="120"
@@ -3930,7 +3930,7 @@ export const Avatar4 = () => {
           x="100"
           y="170"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3938,7 +3938,7 @@ export const Avatar4 = () => {
           x="220"
           y="170"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -3946,7 +3946,7 @@ export const Avatar4 = () => {
           x="230"
           y="170"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3954,7 +3954,7 @@ export const Avatar4 = () => {
           x="60"
           y="180"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3962,7 +3962,7 @@ export const Avatar4 = () => {
           x="70"
           y="180"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -3970,7 +3970,7 @@ export const Avatar4 = () => {
           x="80"
           y="180"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3978,7 +3978,7 @@ export const Avatar4 = () => {
           x="100"
           y="180"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="100"
@@ -3986,7 +3986,7 @@ export const Avatar4 = () => {
           x="110"
           y="180"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -3994,7 +3994,7 @@ export const Avatar4 = () => {
           x="210"
           y="180"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -4002,7 +4002,7 @@ export const Avatar4 = () => {
           x="220"
           y="180"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4010,7 +4010,7 @@ export const Avatar4 = () => {
           x="70"
           y="190"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4018,7 +4018,7 @@ export const Avatar4 = () => {
           x="80"
           y="190"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4026,7 +4026,7 @@ export const Avatar4 = () => {
           x="90"
           y="190"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="100"
@@ -4034,7 +4034,7 @@ export const Avatar4 = () => {
           x="110"
           y="190"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -4042,7 +4042,7 @@ export const Avatar4 = () => {
           x="210"
           y="190"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4050,7 +4050,7 @@ export const Avatar4 = () => {
           x="70"
           y="200"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4058,7 +4058,7 @@ export const Avatar4 = () => {
           x="100"
           y="200"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4066,7 +4066,7 @@ export const Avatar4 = () => {
           x="110"
           y="200"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4074,7 +4074,7 @@ export const Avatar4 = () => {
           x="130"
           y="200"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -4082,7 +4082,7 @@ export const Avatar4 = () => {
           x="140"
           y="200"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4090,7 +4090,7 @@ export const Avatar4 = () => {
           x="180"
           y="200"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4098,7 +4098,7 @@ export const Avatar4 = () => {
           x="190"
           y="200"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4106,7 +4106,7 @@ export const Avatar4 = () => {
           x="210"
           y="200"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4114,7 +4114,7 @@ export const Avatar4 = () => {
           x="220"
           y="200"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4122,7 +4122,7 @@ export const Avatar4 = () => {
           x="80"
           y="210"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4130,7 +4130,7 @@ export const Avatar4 = () => {
           x="90"
           y="210"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4138,7 +4138,7 @@ export const Avatar4 = () => {
           x="100"
           y="210"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4146,7 +4146,7 @@ export const Avatar4 = () => {
           x="130"
           y="210"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -4154,7 +4154,7 @@ export const Avatar4 = () => {
           x="140"
           y="210"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4162,7 +4162,7 @@ export const Avatar4 = () => {
           x="180"
           y="210"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4170,7 +4170,7 @@ export const Avatar4 = () => {
           x="190"
           y="210"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4178,7 +4178,7 @@ export const Avatar4 = () => {
           x="220"
           y="210"
           fill="#d4cfc0"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4186,7 +4186,7 @@ export const Avatar4 = () => {
           x="230"
           y="210"
           fill="#f9f5e9"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -4194,7 +4194,7 @@ export const Avatar4 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -4203,7 +4203,7 @@ export const Avatar4 = () => {
           x="100"
           y="110"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -4211,7 +4211,7 @@ export const Avatar4 = () => {
           x="170"
           y="110"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4219,7 +4219,7 @@ export const Avatar4 = () => {
           x="100"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4227,7 +4227,7 @@ export const Avatar4 = () => {
           x="110"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4235,7 +4235,7 @@ export const Avatar4 = () => {
           x="130"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4243,7 +4243,7 @@ export const Avatar4 = () => {
           x="170"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4251,7 +4251,7 @@ export const Avatar4 = () => {
           x="180"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4259,7 +4259,7 @@ export const Avatar4 = () => {
           x="200"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -4267,7 +4267,7 @@ export const Avatar4 = () => {
           x="70"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4275,7 +4275,7 @@ export const Avatar4 = () => {
           x="110"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="50"
@@ -4283,7 +4283,7 @@ export const Avatar4 = () => {
           x="130"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4291,7 +4291,7 @@ export const Avatar4 = () => {
           x="180"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4299,7 +4299,7 @@ export const Avatar4 = () => {
           x="200"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4307,7 +4307,7 @@ export const Avatar4 = () => {
           x="70"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4315,7 +4315,7 @@ export const Avatar4 = () => {
           x="100"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4323,7 +4323,7 @@ export const Avatar4 = () => {
           x="110"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4331,7 +4331,7 @@ export const Avatar4 = () => {
           x="130"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4339,7 +4339,7 @@ export const Avatar4 = () => {
           x="170"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4347,7 +4347,7 @@ export const Avatar4 = () => {
           x="180"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4355,7 +4355,7 @@ export const Avatar4 = () => {
           x="200"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4363,7 +4363,7 @@ export const Avatar4 = () => {
           x="70"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4371,7 +4371,7 @@ export const Avatar4 = () => {
           x="100"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4379,7 +4379,7 @@ export const Avatar4 = () => {
           x="110"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4387,7 +4387,7 @@ export const Avatar4 = () => {
           x="130"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4395,7 +4395,7 @@ export const Avatar4 = () => {
           x="170"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4403,7 +4403,7 @@ export const Avatar4 = () => {
           x="180"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4411,7 +4411,7 @@ export const Avatar4 = () => {
           x="200"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -4419,7 +4419,7 @@ export const Avatar4 = () => {
           x="100"
           y="160"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -4427,7 +4427,7 @@ export const Avatar4 = () => {
           x="170"
           y="160"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
     </svg>
@@ -4447,7 +4447,7 @@ export const Avatar5 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="#e1d7d5" />
       </g>
@@ -4456,7 +4456,7 @@ export const Avatar5 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -4465,7 +4465,7 @@ export const Avatar5 = () => {
           x="90"
           y="210"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -4473,7 +4473,7 @@ export const Avatar5 = () => {
           x="90"
           y="220"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -4481,7 +4481,7 @@ export const Avatar5 = () => {
           x="90"
           y="230"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="140"
@@ -4489,7 +4489,7 @@ export const Avatar5 = () => {
           x="90"
           y="240"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4497,7 +4497,7 @@ export const Avatar5 = () => {
           x="90"
           y="250"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -4505,7 +4505,7 @@ export const Avatar5 = () => {
           x="120"
           y="250"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4513,7 +4513,7 @@ export const Avatar5 = () => {
           x="90"
           y="260"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -4521,7 +4521,7 @@ export const Avatar5 = () => {
           x="120"
           y="260"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4529,7 +4529,7 @@ export const Avatar5 = () => {
           x="90"
           y="270"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -4537,7 +4537,7 @@ export const Avatar5 = () => {
           x="120"
           y="270"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4545,7 +4545,7 @@ export const Avatar5 = () => {
           x="90"
           y="280"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -4553,7 +4553,7 @@ export const Avatar5 = () => {
           x="120"
           y="280"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4561,7 +4561,7 @@ export const Avatar5 = () => {
           x="90"
           y="290"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -4569,7 +4569,7 @@ export const Avatar5 = () => {
           x="120"
           y="290"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4577,7 +4577,7 @@ export const Avatar5 = () => {
           x="90"
           y="300"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -4585,7 +4585,7 @@ export const Avatar5 = () => {
           x="120"
           y="300"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4593,7 +4593,7 @@ export const Avatar5 = () => {
           x="90"
           y="310"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="110"
@@ -4601,7 +4601,7 @@ export const Avatar5 = () => {
           x="120"
           y="310"
           fill="#807f7e"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -4609,7 +4609,7 @@ export const Avatar5 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -4618,7 +4618,7 @@ export const Avatar5 = () => {
           x="120"
           y="210"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4626,7 +4626,7 @@ export const Avatar5 = () => {
           x="180"
           y="210"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4634,7 +4634,7 @@ export const Avatar5 = () => {
           x="120"
           y="220"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4642,7 +4642,7 @@ export const Avatar5 = () => {
           x="180"
           y="220"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4650,7 +4650,7 @@ export const Avatar5 = () => {
           x="90"
           y="240"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4658,7 +4658,7 @@ export const Avatar5 = () => {
           x="150"
           y="240"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4666,7 +4666,7 @@ export const Avatar5 = () => {
           x="210"
           y="240"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4674,7 +4674,7 @@ export const Avatar5 = () => {
           x="90"
           y="250"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4682,7 +4682,7 @@ export const Avatar5 = () => {
           x="150"
           y="250"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4690,7 +4690,7 @@ export const Avatar5 = () => {
           x="210"
           y="250"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4698,7 +4698,7 @@ export const Avatar5 = () => {
           x="120"
           y="270"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4706,7 +4706,7 @@ export const Avatar5 = () => {
           x="180"
           y="270"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4714,7 +4714,7 @@ export const Avatar5 = () => {
           x="120"
           y="280"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4722,7 +4722,7 @@ export const Avatar5 = () => {
           x="180"
           y="280"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4730,7 +4730,7 @@ export const Avatar5 = () => {
           x="90"
           y="300"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4738,7 +4738,7 @@ export const Avatar5 = () => {
           x="150"
           y="300"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4746,7 +4746,7 @@ export const Avatar5 = () => {
           x="210"
           y="300"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4754,7 +4754,7 @@ export const Avatar5 = () => {
           x="90"
           y="310"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4762,7 +4762,7 @@ export const Avatar5 = () => {
           x="150"
           y="310"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4770,7 +4770,7 @@ export const Avatar5 = () => {
           x="210"
           y="310"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -4778,7 +4778,7 @@ export const Avatar5 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -4787,7 +4787,7 @@ export const Avatar5 = () => {
           x="90"
           y="90"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4795,7 +4795,7 @@ export const Avatar5 = () => {
           x="90"
           y="100"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4803,7 +4803,7 @@ export const Avatar5 = () => {
           x="100"
           y="100"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -4811,7 +4811,7 @@ export const Avatar5 = () => {
           x="110"
           y="100"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4819,7 +4819,7 @@ export const Avatar5 = () => {
           x="90"
           y="110"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4827,7 +4827,7 @@ export const Avatar5 = () => {
           x="120"
           y="110"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -4835,7 +4835,7 @@ export const Avatar5 = () => {
           x="130"
           y="110"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="50"
@@ -4843,7 +4843,7 @@ export const Avatar5 = () => {
           x="80"
           y="120"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4851,7 +4851,7 @@ export const Avatar5 = () => {
           x="130"
           y="120"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4859,7 +4859,7 @@ export const Avatar5 = () => {
           x="140"
           y="120"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4867,7 +4867,7 @@ export const Avatar5 = () => {
           x="160"
           y="120"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -4875,7 +4875,7 @@ export const Avatar5 = () => {
           x="170"
           y="120"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="90"
@@ -4883,7 +4883,7 @@ export const Avatar5 = () => {
           x="80"
           y="130"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4891,7 +4891,7 @@ export const Avatar5 = () => {
           x="170"
           y="130"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -4899,7 +4899,7 @@ export const Avatar5 = () => {
           x="180"
           y="130"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4907,7 +4907,7 @@ export const Avatar5 = () => {
           x="80"
           y="140"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4915,7 +4915,7 @@ export const Avatar5 = () => {
           x="100"
           y="140"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4923,7 +4923,7 @@ export const Avatar5 = () => {
           x="110"
           y="140"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4931,7 +4931,7 @@ export const Avatar5 = () => {
           x="140"
           y="140"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -4939,7 +4939,7 @@ export const Avatar5 = () => {
           x="150"
           y="140"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4947,7 +4947,7 @@ export const Avatar5 = () => {
           x="210"
           y="140"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4955,7 +4955,7 @@ export const Avatar5 = () => {
           x="220"
           y="140"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4963,7 +4963,7 @@ export const Avatar5 = () => {
           x="70"
           y="150"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -4971,7 +4971,7 @@ export const Avatar5 = () => {
           x="90"
           y="150"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4979,7 +4979,7 @@ export const Avatar5 = () => {
           x="110"
           y="150"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -4987,7 +4987,7 @@ export const Avatar5 = () => {
           x="140"
           y="150"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -4995,7 +4995,7 @@ export const Avatar5 = () => {
           x="150"
           y="150"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5003,7 +5003,7 @@ export const Avatar5 = () => {
           x="180"
           y="150"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5011,7 +5011,7 @@ export const Avatar5 = () => {
           x="200"
           y="150"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -5019,7 +5019,7 @@ export const Avatar5 = () => {
           x="210"
           y="150"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5027,7 +5027,7 @@ export const Avatar5 = () => {
           x="240"
           y="150"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5035,7 +5035,7 @@ export const Avatar5 = () => {
           x="70"
           y="160"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="150"
@@ -5043,7 +5043,7 @@ export const Avatar5 = () => {
           x="90"
           y="160"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5051,7 +5051,7 @@ export const Avatar5 = () => {
           x="240"
           y="160"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5059,7 +5059,7 @@ export const Avatar5 = () => {
           x="60"
           y="170"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="170"
@@ -5067,7 +5067,7 @@ export const Avatar5 = () => {
           x="80"
           y="170"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5075,7 +5075,7 @@ export const Avatar5 = () => {
           x="250"
           y="170"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5083,7 +5083,7 @@ export const Avatar5 = () => {
           x="60"
           y="180"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -5091,7 +5091,7 @@ export const Avatar5 = () => {
           x="70"
           y="180"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -5099,7 +5099,7 @@ export const Avatar5 = () => {
           x="100"
           y="180"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5107,7 +5107,7 @@ export const Avatar5 = () => {
           x="140"
           y="180"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -5115,7 +5115,7 @@ export const Avatar5 = () => {
           x="150"
           y="180"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5123,7 +5123,7 @@ export const Avatar5 = () => {
           x="190"
           y="180"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -5131,7 +5131,7 @@ export const Avatar5 = () => {
           x="200"
           y="180"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5139,7 +5139,7 @@ export const Avatar5 = () => {
           x="240"
           y="180"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5147,7 +5147,7 @@ export const Avatar5 = () => {
           x="250"
           y="180"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5155,7 +5155,7 @@ export const Avatar5 = () => {
           x="270"
           y="180"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5163,7 +5163,7 @@ export const Avatar5 = () => {
           x="50"
           y="190"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5171,7 +5171,7 @@ export const Avatar5 = () => {
           x="70"
           y="190"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5179,7 +5179,7 @@ export const Avatar5 = () => {
           x="90"
           y="190"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5187,7 +5187,7 @@ export const Avatar5 = () => {
           x="100"
           y="190"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5195,7 +5195,7 @@ export const Avatar5 = () => {
           x="110"
           y="190"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5203,7 +5203,7 @@ export const Avatar5 = () => {
           x="120"
           y="190"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5211,7 +5211,7 @@ export const Avatar5 = () => {
           x="130"
           y="190"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5219,7 +5219,7 @@ export const Avatar5 = () => {
           x="140"
           y="190"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5227,7 +5227,7 @@ export const Avatar5 = () => {
           x="150"
           y="190"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5235,7 +5235,7 @@ export const Avatar5 = () => {
           x="160"
           y="190"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5243,7 +5243,7 @@ export const Avatar5 = () => {
           x="180"
           y="190"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5251,7 +5251,7 @@ export const Avatar5 = () => {
           x="190"
           y="190"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5259,7 +5259,7 @@ export const Avatar5 = () => {
           x="200"
           y="190"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5267,7 +5267,7 @@ export const Avatar5 = () => {
           x="210"
           y="190"
           fill="#e9265c"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5275,7 +5275,7 @@ export const Avatar5 = () => {
           x="220"
           y="190"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5283,7 +5283,7 @@ export const Avatar5 = () => {
           x="230"
           y="190"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -5291,7 +5291,7 @@ export const Avatar5 = () => {
           x="240"
           y="190"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5299,7 +5299,7 @@ export const Avatar5 = () => {
           x="280"
           y="190"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="50"
@@ -5307,7 +5307,7 @@ export const Avatar5 = () => {
           x="50"
           y="200"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5315,7 +5315,7 @@ export const Avatar5 = () => {
           x="100"
           y="200"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5323,7 +5323,7 @@ export const Avatar5 = () => {
           x="110"
           y="200"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -5331,7 +5331,7 @@ export const Avatar5 = () => {
           x="130"
           y="200"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5339,7 +5339,7 @@ export const Avatar5 = () => {
           x="160"
           y="200"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -5347,7 +5347,7 @@ export const Avatar5 = () => {
           x="180"
           y="200"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5355,7 +5355,7 @@ export const Avatar5 = () => {
           x="210"
           y="200"
           fill="#ff638d"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -5363,7 +5363,7 @@ export const Avatar5 = () => {
           x="230"
           y="200"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -5371,7 +5371,7 @@ export const Avatar5 = () => {
           x="80"
           y="210"
           fill="#d6c3be"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
       <g
@@ -5379,7 +5379,7 @@ export const Avatar5 = () => {
         height="320"
         viewBox="0 0 320 320"
         xmlns="http://www.w3.org/2000/svg"
-        shape-rendering="crispEdges"
+        shapeRendering="crispEdges"
       >
         <rect width="100%" height="100%" fill="none" />
         <rect
@@ -5388,7 +5388,7 @@ export const Avatar5 = () => {
           x="100"
           y="110"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -5396,7 +5396,7 @@ export const Avatar5 = () => {
           x="170"
           y="110"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5404,7 +5404,7 @@ export const Avatar5 = () => {
           x="100"
           y="120"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5412,7 +5412,7 @@ export const Avatar5 = () => {
           x="110"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5420,7 +5420,7 @@ export const Avatar5 = () => {
           x="130"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5428,7 +5428,7 @@ export const Avatar5 = () => {
           x="150"
           y="120"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5436,7 +5436,7 @@ export const Avatar5 = () => {
           x="170"
           y="120"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5444,7 +5444,7 @@ export const Avatar5 = () => {
           x="180"
           y="120"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5452,7 +5452,7 @@ export const Avatar5 = () => {
           x="200"
           y="120"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5460,7 +5460,7 @@ export const Avatar5 = () => {
           x="220"
           y="120"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="40"
@@ -5468,7 +5468,7 @@ export const Avatar5 = () => {
           x="70"
           y="130"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5476,7 +5476,7 @@ export const Avatar5 = () => {
           x="110"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5484,7 +5484,7 @@ export const Avatar5 = () => {
           x="130"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="30"
@@ -5492,7 +5492,7 @@ export const Avatar5 = () => {
           x="150"
           y="130"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5500,7 +5500,7 @@ export const Avatar5 = () => {
           x="180"
           y="130"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5508,7 +5508,7 @@ export const Avatar5 = () => {
           x="200"
           y="130"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5516,7 +5516,7 @@ export const Avatar5 = () => {
           x="220"
           y="130"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5524,7 +5524,7 @@ export const Avatar5 = () => {
           x="70"
           y="140"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5532,7 +5532,7 @@ export const Avatar5 = () => {
           x="100"
           y="140"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5540,7 +5540,7 @@ export const Avatar5 = () => {
           x="110"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5548,7 +5548,7 @@ export const Avatar5 = () => {
           x="130"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5556,7 +5556,7 @@ export const Avatar5 = () => {
           x="150"
           y="140"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5564,7 +5564,7 @@ export const Avatar5 = () => {
           x="170"
           y="140"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5572,7 +5572,7 @@ export const Avatar5 = () => {
           x="180"
           y="140"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5580,7 +5580,7 @@ export const Avatar5 = () => {
           x="200"
           y="140"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5588,7 +5588,7 @@ export const Avatar5 = () => {
           x="220"
           y="140"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5596,7 +5596,7 @@ export const Avatar5 = () => {
           x="70"
           y="150"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5604,7 +5604,7 @@ export const Avatar5 = () => {
           x="100"
           y="150"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5612,7 +5612,7 @@ export const Avatar5 = () => {
           x="110"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5620,7 +5620,7 @@ export const Avatar5 = () => {
           x="130"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5628,7 +5628,7 @@ export const Avatar5 = () => {
           x="150"
           y="150"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5636,7 +5636,7 @@ export const Avatar5 = () => {
           x="170"
           y="150"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5644,7 +5644,7 @@ export const Avatar5 = () => {
           x="180"
           y="150"
           fill="#ffffff"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="20"
@@ -5652,7 +5652,7 @@ export const Avatar5 = () => {
           x="200"
           y="150"
           fill="#000000"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="10"
@@ -5660,7 +5660,7 @@ export const Avatar5 = () => {
           x="220"
           y="150"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -5668,7 +5668,7 @@ export const Avatar5 = () => {
           x="100"
           y="160"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
         <rect
           width="60"
@@ -5676,7 +5676,7 @@ export const Avatar5 = () => {
           x="170"
           y="160"
           fill="#4bea69"
-          shape-rendering="crispEdges"
+          shapeRendering="crispEdges"
         />
       </g>
     </svg>

@@ -45,9 +45,7 @@ const Form: React.FC<{
     if (!MiniKit.isInstalled()) {
       return;
     }
-
     const nonce = crypto.randomUUID().replace(/-/g, "");
-
     const { finalPayload } = await MiniKit.commandsAsync.walletAuth({
       nonce: nonce,
       requestId: "0", // Optional
@@ -56,20 +54,16 @@ const Form: React.FC<{
       statement:
         "This is my statement and here is a link https://worldcoin.com/apps",
     });
-
     if (finalPayload.status === "error") {
       return;
     } else {
       const walletAddress = MiniKit.walletAddress;
-
       if (walletAddress) {
         const responseData = await sendLogin(walletAddress);
         if (responseData) {
           const { userId, token } = responseData;
-
           localStorage.setItem("userId", userId);
           localStorage.setItem("token", token);
-
           console.log("Saved to local storage:", { userId, token });
         }
       }

@@ -21,7 +21,7 @@ const CustomMessageUi = () => {
     messageUiClassNames.push("custom-message-ui--other");
   }
   return (
-    <div className={messageUiClassNames.join(" ")} data-message-id={message.id}>
+    <div className="w-full" data-message-id={message.id}>
       <div className="w-[36px] h-[36px] rounded-full mx-auto flex items-center overflow-hidden">
         {isMyMessage() ? <Avatar5 /> : <Avatar3 />}
       </div>
@@ -33,7 +33,6 @@ const CustomMessageUi = () => {
 const apiKey = import.meta.env.VITE_STREAMCHAT_KEY as string;
 const userId = localStorage.getItem("userId");
 const token = localStorage.getItem("token");
-console.log(userId, token, apiKey, "-----");
 
 // const sort = { last_message_at: -1 };
 
@@ -52,8 +51,6 @@ const ChatPage = () => {
 
       const data = await res.json();
 
-      console.log(data, "channel data");
-
       return data;
     } catch (error: unknown) {
       console.log("Error sending login", error);
@@ -66,7 +63,7 @@ const ChatPage = () => {
   useEffect(() => {
     const fetchChannelData = async () => {
       const data = await getChannel();
-      console.log(data);
+
       setChannelData(data);
     };
 
@@ -81,7 +78,7 @@ const ChatPage = () => {
 
   const channel = client?.channel(
     "messaging",
-    "2987237d-845d-4b62-b5da-c00e92f566fe",
+    "993dced8-b527-49bc-a05c-1c6fb086b5cf",
     {
       image: "https://cdn.com/image.png",
       name: "Just Chatting",
@@ -97,7 +94,7 @@ const ChatPage = () => {
   return (
     <Chat client={client}>
       <Channel channel={channel} Message={CustomMessageUi}>
-        <div className="w-[100vw]">
+        <div className="w-[100vw] border">
           <MessageList />
         </div>
 
