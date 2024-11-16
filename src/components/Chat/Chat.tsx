@@ -16,7 +16,7 @@ const CustomMessageUi = () => {
 
   return (
     <div
-      className={`w-full border-2 flex items-center ${
+      className={`w-full flex items-center ${
         isMyMessage() ? "flex-row-reverse" : "flex-row"
       }`}
       data-message-id={message.id}
@@ -25,7 +25,7 @@ const CustomMessageUi = () => {
         {isMyMessage() ? <Avatar5 /> : <Avatar3 />}
       </div>
       <span
-        className={`w-full p-2 rounded-lg ${
+        className={`w-full p-2 m-2 rounded-lg ${
           isMyMessage() ? "bg-blue-500 text-white" : "bg-gray-200 text-black"
         }`}
       >
