@@ -56,10 +56,8 @@ const Form: React.FC<{
     if (finalPayload.status === "error") {
       return;
     } else {
-      console.log("commandPayload", commandPayload);
-
       const walletAddress = MiniKit.walletAddress;
-      console.log("walletAddress", walletAddress);
+
       if (walletAddress) {
         const responseData = await sendLogin(walletAddress);
         if (responseData) {
