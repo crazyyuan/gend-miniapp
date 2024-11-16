@@ -89,7 +89,7 @@ const Form: React.FC<{
         }),
       });
       if (res.status === 200) {
-        console.log("login success!");
+        console.log("login success!", res.body);
       }
     } catch (error: unknown) {
       console.log("Error sending login", error);
