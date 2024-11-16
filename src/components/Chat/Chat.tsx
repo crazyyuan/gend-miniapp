@@ -1,9 +1,9 @@
 import { useEffect, useId, useState } from "react";
 import {
   Chat,
-  Channel,
-  MessageList,
-  MessageInput,
+  // Channel,
+  // MessageList,
+  // MessageInput,
   useCreateChatClient,
 } from "stream-chat-react";
 import "stream-chat-react/dist/css/v2/index.css";
@@ -56,22 +56,20 @@ const ChatPage = () => {
     userData: { id: userId as string },
   });
 
-  const channel = client?.channel("messaging", {
-    image: "https://cdn.com/image.png",
-    name: "Just Chatting",
-    members: ["dave-matthews", "trey-anastasio"],
-  });
-
-  console.log(channelData);
+  // const channel = client?.channel("messaging", {
+  //   image: "https://cdn.com/image.png",
+  //   name: "Just Chatting",
+  //   members: ["dave-matthews", "trey-anastasio"],
+  // });
 
   if (!client) return <div>Loading...</div>;
 
   return (
     <Chat client={client}>
-      <Channel channel={channel}>
+      {/* <Channel channel={channel}>
         <MessageList />
         <MessageInput />
-      </Channel>
+      </Channel> */}
     </Chat>
   );
 };
