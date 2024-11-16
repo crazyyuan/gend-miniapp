@@ -16,13 +16,21 @@ const CustomMessageUi = () => {
 
   return (
     <div
-      className={"w-full border-2 flex flex-row items-center"}
+      className={`w-full border-2 flex items-center ${
+        isMyMessage() ? "flex-row-reverse" : "flex-row"
+      }`}
       data-message-id={message.id}
     >
-      <div className="w-[36px] h-[36px] rounded-full mx-auto flex items-center overflow-hidden">
+      <div className="w-[36px] h-[36px] rounded-full mx-2 flex items-center overflow-hidden">
         {isMyMessage() ? <Avatar5 /> : <Avatar3 />}
       </div>
-      <span className="w-full border-2">{message.text}</span>
+      <span
+        className={`w-full p-2 rounded-lg ${
+          isMyMessage() ? "bg-blue-500 text-white" : "bg-gray-200 text-black"
+        }`}
+      >
+        {message.text}
+      </span>
     </div>
   );
 };
