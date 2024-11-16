@@ -21,7 +21,10 @@ const CustomMessageUi = () => {
     messageUiClassNames.push("custom-message-ui--other");
   }
   return (
-    <div className="w-full" data-message-id={message.id}>
+    <div
+      className={"absolute" + isMyMessage() ? "right-0" : "left-0"}
+      data-message-id={message.id}
+    >
       <div className="w-[36px] h-[36px] rounded-full mx-auto flex items-center overflow-hidden">
         {isMyMessage() ? <Avatar5 /> : <Avatar3 />}
       </div>
@@ -94,11 +97,11 @@ const ChatPage = () => {
   return (
     <Chat client={client}>
       <Channel channel={channel} Message={CustomMessageUi}>
-        <div className="p-2">
+        <div className="w-[100vw] p-2">
           <MessageList />
         </div>
 
-        <div className="fixed w-[100vw] bottom-32">
+        <div className="fixed w-[100vw] left-0 bottom-32">
           <MessageInput />
         </div>
       </Channel>
