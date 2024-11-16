@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Chat, useCreateChatClient } from "stream-chat-react";
+import "./Chat.css";
 
 const ChatBoard = () => {
   const [timeout] = useState(6000);
@@ -17,7 +18,7 @@ const ChatWithOptions = ({ timeout }: any) => {
     tokenOrProvider: token,
     userData: { id: userId },
   });
-  if (!client) return <div>Loading...</div>;
+  if (!client) return <div>Loading.sss..</div>;
   return <Chat client={client}></Chat>;
 };
 
