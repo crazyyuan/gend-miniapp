@@ -61,7 +61,17 @@ const Form: React.FC<{
       const walletAddress = MiniKit.walletAddress;
       console.log("walletAddress", walletAddress);
       if (walletAddress) {
-        await sendLogin(walletAddress);
+        const responseData = await sendLogin(walletAddress);
+        if (responseData) {
+          // Assuming the response contains an 'id' field
+          const { id } = responseData;
+
+          // Save walletAddress and id to local storage
+          localStorage.setItem("walletAddress", walletAddress);
+          localStorage.setItem("userId", id);
+
+          console.log("Saved to local storage:", { walletAddress, id });
+        }
       }
 
       // const response = await fetch('/api/complete-siwe', {
@@ -88,10 +98,10 @@ const Form: React.FC<{
           wallet: wallet,
         }),
       });
-      console.log(res);
-      if (res.status === 200) {
-        console.log("login success!", res.body);
-      }
+      const data = await res.json();
+      console.log("Response data:", data);
+
+      return data; // Return the extracted data if needed
     } catch (error: unknown) {
       console.log("Error sending login", error);
       return null;
