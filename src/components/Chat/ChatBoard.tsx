@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Chat, useCreateChatClient } from "stream-chat-react";
-import "./Chat.css";
 
 const ChatBoard = () => {
   const [timeout] = useState(6000);
