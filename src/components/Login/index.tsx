@@ -1,5 +1,5 @@
 import { MiniKit } from "@worldcoin/minikit-js";
-import { useCallback, useState } from "react";
+// import { useCallback, useState } from "react";
 
 const sendLogin = async (wallet: string) => {
   try {
