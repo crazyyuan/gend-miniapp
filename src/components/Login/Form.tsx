@@ -5,9 +5,10 @@ interface userDateProps {
   username: string;
   birthday: string;
   gender: string;
-  lookFor: string;
+  lookFor: number;
   acceptedTerms: boolean;
   avatar: number;
+  orientation: string;
 }
 
 const Form: React.FC<{
@@ -18,20 +19,27 @@ const Form: React.FC<{
     username: "",
     birthday: "",
     gender: "Man",
-    lookFor: "Man | 20 - 30",
+    lookFor: 20,
+    orientation: "Heterosexual",
     acceptedTerms: false,
     avatar: 1,
   });
 
-  const handleChange = (
-    e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>
-  ) => {
-    const { name, value, type } = e.target;
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const { name, value, type, checked } = e.target;
     setFormData({
       ...formData,
-      [name]: type === "checkbox" ? false : value,
+      [name]: type === "checkbox" ? checked : value,
     });
   };
+
+  const genderList = ["Man", "Female", "Bisexual", "Gay", "Lesbian"];
+  const orientationList = [
+    "Heterosexual",
+    "Pansexual",
+    "Homosexual",
+    "Bisexual",
+  ];
 
   const signInWithWallet = async () => {
     if (!MiniKit.isInstalled()) {
@@ -127,36 +135,60 @@ const Form: React.FC<{
       </div>
       <div className="mb-4">
         <label className="block text-sm mb-2">Your Gender</label>
-        <input
-          type="text"
-          name="gender"
-          value={formData.gender}
-          readOnly
-          className="w-full p-2 border border-gray-300 rounded bg-gray-100"
-        />
+        {genderList.map((item, index) => (
+          <div key={index} className="flex items-center">
+            <input
+              type="radio"
+              name="gender"
+              value={item}
+              checked={formData.gender === item}
+              onChange={handleChange}
+              className="mr-2"
+            />
+            <label>{item}</label>
+          </div>
+        ))}
       </div>
+
       <div className="mb-4">
-        <label className="block text-sm mb-2">Look For</label>
-        <input
-          type="text"
-          name="lookFor"
-          value={formData.lookFor}
-          readOnly
-          className="w-full p-2 border border-gray-300 rounded bg-gray-100"
-        />
+        <label className="block text-sm mb-2">Sexual Orientation</label>
+        {orientationList.map((item, index) => (
+          <div key={index} className="flex items-center">
+            <input
+              type="radio"
+              name="orientation"
+              value={item}
+              checked={formData.orientation === item}
+              onChange={handleChange}
+              className="mr-2"
+            />
+            <label>{item}</label>
+          </div>
+        ))}
       </div>
+
       <div className="mb-4">
-        <label className="block text-sm mb-2">Avatar</label>
-        <select
-          name="avatar"
-          value={formData.avatar}
-          onChange={handleChange}
-          className="w-full p-2 border border-gray-300 rounded"
-        >
-          <option value={1}>Avatar 1</option>
-          <option value={2}>Avatar 2</option>
-          <option value={3}>Avatar 3</option>
-        </select>
+        <label className="block text-sm mb-2">Age Range</label>
+        <div className="flex space-x-2">
+          <input
+            type="number"
+            name="minAge"
+            onChange={handleChange}
+            className="w-full p-2 border border-gray-300 rounded"
+            min={0}
+            max={120}
+            placeholder="Min Age"
+          />
+          <input
+            type="number"
+            name="maxAge"
+            onChange={handleChange}
+            className="w-full p-2 border border-gray-300 rounded"
+            min={0}
+            max={120}
+            placeholder="Max Age"
+          />
+        </div>
       </div>
       <div className="mb-4">
         <label className="flex items-center">

@@ -1,12 +1,13 @@
 import React, { useState } from "react";
 
 interface userDateProps {
-  avatar: number;
   username: string;
   birthday: string;
   gender: string;
-  lookFor: string;
+  lookFor: number;
   acceptedTerms: boolean;
+  avatar: number;
+  orientation: string;
 }
 
 const ProfileCard: React.FC<{
@@ -32,6 +33,9 @@ const ProfileCard: React.FC<{
 
     setIsMapping();
     setMapping(true);
+    setTimeout(() => {
+      setMapping(false);
+    }, 2500);
   };
 
   return (
@@ -62,7 +66,8 @@ const ProfileCard: React.FC<{
           </h2>
           <>
             <p className="text-center text-gray-600">{userData.gender}</p>
-            <p className="text-center text-gray-600">{userData.lookFor}</p>
+            <p className="text-center text-gray-600">{userData.birthday}</p>
+            <p className="text-center text-gray-600">{userData.orientation}</p>
           </>
         </>
       )}

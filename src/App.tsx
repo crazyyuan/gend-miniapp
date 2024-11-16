@@ -8,9 +8,10 @@ interface userDateProps {
   username: string;
   birthday: string;
   gender: string;
-  lookFor: string;
+  lookFor: number;
   acceptedTerms: boolean;
   avatar: number;
+  orientation: string;
 }
 
 export default function App() {
