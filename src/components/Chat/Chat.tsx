@@ -62,6 +62,8 @@ const ChatPage = () => {
   //   members: ["dave-matthews", "trey-anastasio"],
   // });
 
+  console.log(channelData);
+
   if (!client) return <div>Loading...</div>;
 
   return (
