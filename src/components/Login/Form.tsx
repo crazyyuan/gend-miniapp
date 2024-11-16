@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { MiniKit } from "@worldcoin/minikit-js";
 
 interface userDateProps {
   username: string;
@@ -30,8 +31,77 @@ const Form: React.FC<{
     });
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const signInWithWallet = async () => {
+    if (!MiniKit.isInstalled()) {
+      return;
+    }
+
+    // const res = await fetch(`/api/nonce`)
+    // const { nonce } = await res.json()
+
+    const nonce = crypto.randomUUID().replace(/-/g, "");
+
+    const { commandPayload, finalPayload } =
+      await MiniKit.commandsAsync.walletAuth({
+        nonce: nonce,
+        requestId: "0", // Optional
+        expirationTime: new Date(
+          new Date().getTime() + 7 * 24 * 60 * 60 * 1000,
+        ),
+        notBefore: new Date(new Date().getTime() - 24 * 60 * 60 * 1000),
+        statement:
+          "This is my statement and here is a link https://worldcoin.com/apps",
+      });
+
+    if (finalPayload.status === "error") {
+      return;
+    } else {
+      console.log("commandPayload", commandPayload);
+
+      const walletAddress = MiniKit.walletAddress;
+      console.log("walletAddress", walletAddress);
+      if (walletAddress) {
+        await sendLogin(walletAddress);
+      }
+
+      // const response = await fetch('/api/complete-siwe', {
+      //   method: 'POST',
+      //   headers: {
+      //     'Content-Type': 'application/json',
+      //   },
+      //   body: JSON.stringify({
+      //     payload: finalPayload,
+      //     nonce,
+      //   }),
+      // })
+    }
+  };
+
+  const sendLogin = async (wallet: string) => {
+    try {
+      const res = await fetch(`${import.meta.env.VITE_NEXTAUTH_URL}/login`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          wallet: wallet,
+        }),
+      });
+      if (res.status === 200) {
+        console.log("login success!", res.body);
+      }
+    } catch (error: unknown) {
+      console.log("Error sending login", error);
+      return null;
+    }
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+
+    await signInWithWallet();
+
     goNext();
     setUserData(formData);
   };
