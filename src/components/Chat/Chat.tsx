@@ -1,15 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 
-interface userDateProps {
-  username: string;
-  birthday: string;
-  gender: string;
-  lookFor: string;
-  acceptedTerms: boolean;
-}
+
 
 const Chat: React.FC = () => {
-  const [avatarIndex, setAvatarIndex] = useState(1);
+
 
   return (
     <div className="w-full h-full flex flex-col items-center justify-center">

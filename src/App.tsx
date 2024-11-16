@@ -63,7 +63,7 @@ export default function App() {
             />
             {isMapping ? (
               <div className="w-full h-full flex flex-col items-center justify-center">
-                <div className="flex justify-between w-[90%] max-w-sm rounded-3xl shadow py-2 fixed bottom-8 px-8">
+                <div className="flex justify-between w-[90%] max-w-sm rounded-3xl py-2 fixed bottom-8 px-8">
                   <div className="h-[60px] w-[60px]">
                     <svg
                       width="24"
@@ -76,8 +76,8 @@ export default function App() {
                         d="M16.0002 19.3688C18.3915 17.9836 20.0002 15.3947 20.0002 12.4295C20.0002 9.06753 17.9321 6.18926 15.0002 5.00086M15.0002 16.9357V20.9412H19.0002M8.00024 5.57241C5.60904 6.95755 4.00024 9.54647 4.00024 12.5117C4.00024 15.8736 6.06841 18.7519 9.00024 19.9403M9.00024 8.00549L9.00024 4L5.00024 4"
                         stroke="black"
                         strokeWidth="2"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                     </svg>
                   </div>
