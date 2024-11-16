@@ -64,13 +64,13 @@ const Form: React.FC<{
         const responseData = await sendLogin(walletAddress);
         if (responseData) {
           // Assuming the response contains an 'id' field
-          const { id } = responseData;
+          const { userId, token } = responseData;
 
           // Save walletAddress and id to local storage
-          localStorage.setItem("walletAddress", walletAddress);
-          localStorage.setItem("userId", id);
+          localStorage.setItem("userId", userId);
+          localStorage.setItem("token", token);
 
-          console.log("Saved to local storage:", { walletAddress, id });
+          console.log("Saved to local storage:", { userId, token });
         }
       }
 

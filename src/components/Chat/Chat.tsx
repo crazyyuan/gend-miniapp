@@ -12,8 +12,9 @@ import {
 import "stream-chat-react/dist/css/v2/index.css";
 
 const apiKey = "your-api-key";
-const userId = "user-id";
-const token = "authentication-token";
+const userId = localStorage.getItem("userId");
+const token = localStorage.getItem("token");
+console.log(userId, token, "-----");
 
 const filters = { members: { $in: [userId] }, type: "messaging" };
 const options = { presence: true, state: true };
@@ -23,7 +24,7 @@ const ChatPage = () => {
   const client = useCreateChatClient({
     apiKey,
     tokenOrProvider: token,
-    userData: { id: userId },
+    userData: { id: userId as string },
   });
 
   if (!client) return <div>Loading...</div>;
