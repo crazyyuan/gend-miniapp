@@ -8,27 +8,18 @@ import {
   useMessageContext,
 } from "stream-chat-react";
 import "stream-chat-react/dist/css/v2/index.css";
-import "./Chat.css";
+
 import { Avatar3, Avatar5 } from "../../public/avatar";
 
 const CustomMessageUi = () => {
   const { isMyMessage, message } = useMessageContext();
-  const messageUiClassNames = ["custom-message-ui"];
 
-  if (isMyMessage()) {
-    messageUiClassNames.push("custom-message-ui--mine");
-  } else {
-    messageUiClassNames.push("custom-message-ui--other");
-  }
   return (
-    <div
-      className={"absolute border-2" + isMyMessage() ? "right-0" : "left-0"}
-      data-message-id={message.id}
-    >
+    <div className="w-full border-2" data-message-id={message.id}>
       <div className="w-[36px] h-[36px] rounded-full mx-auto flex items-center overflow-hidden">
         {isMyMessage() ? <Avatar5 /> : <Avatar3 />}
       </div>
-      <span className="custom-message-ui__text">{message.text}</span>
+      <span className="w-full border-2">{message.text}</span>
     </div>
   );
 };
