@@ -16,11 +16,7 @@ const CustomMessageUi = () => {
 
   return (
     <div
-      className={
-        "w-full border-2 flex flex-row items-center" + isMyMessage()
-          ? "justify-end"
-          : ""
-      }
+      className={"w-full border-2 flex flex-row items-center"}
       data-message-id={message.id}
     >
       <div className="w-[36px] h-[36px] rounded-full mx-auto flex items-center overflow-hidden">
