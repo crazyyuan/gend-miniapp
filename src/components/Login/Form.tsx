@@ -23,11 +23,13 @@ const Form: React.FC<{
     avatar: 1,
   });
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const { name, value, type, checked } = e.target;
+  const handleChange = (
+    e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>
+  ) => {
+    const { name, value, type } = e.target;
     setFormData({
       ...formData,
-      [name]: type === "checkbox" ? checked : value,
+      [name]: type === "checkbox" ? false : value,
     });
   };
 
@@ -35,9 +37,6 @@ const Form: React.FC<{
     if (!MiniKit.isInstalled()) {
       return;
     }
-
-    // const res = await fetch(`/api/nonce`)
-    // const { nonce } = await res.json()
 
     const nonce = crypto.randomUUID().replace(/-/g, "");
 
@@ -58,27 +57,14 @@ const Form: React.FC<{
       if (walletAddress) {
         const responseData = await sendLogin(walletAddress);
         if (responseData) {
-          // Assuming the response contains an 'id' field
           const { userId, token } = responseData;
 
-          // Save walletAddress and id to local storage
           localStorage.setItem("userId", userId);
           localStorage.setItem("token", token);
 
           console.log("Saved to local storage:", { userId, token });
         }
       }
-
-      // const response = await fetch('/api/complete-siwe', {
-      //   method: 'POST',
-      //   headers: {
-      //     'Content-Type': 'application/json',
-      //   },
-      //   body: JSON.stringify({
-      //     payload: finalPayload,
-      //     nonce,
-      //   }),
-      // })
     }
   };
 
@@ -96,7 +82,7 @@ const Form: React.FC<{
       const data = await res.json();
       console.log("Response data:", data);
 
-      return data; // Return the extracted data if needed
+      return data;
     } catch (error: unknown) {
       console.log("Error sending login", error);
       return null;
@@ -158,6 +144,19 @@ const Form: React.FC<{
           readOnly
           className="w-full p-2 border border-gray-300 rounded bg-gray-100"
         />
+      </div>
+      <div className="mb-4">
+        <label className="block text-sm mb-2">Avatar</label>
+        <select
+          name="avatar"
+          value={formData.avatar}
+          onChange={handleChange}
+          className="w-full p-2 border border-gray-300 rounded"
+        >
+          <option value={1}>Avatar 1</option>
+          <option value={2}>Avatar 2</option>
+          <option value={3}>Avatar 3</option>
+        </select>
       </div>
       <div className="mb-4">
         <label className="flex items-center">
