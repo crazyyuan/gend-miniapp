@@ -11,10 +11,10 @@ import {
 } from "stream-chat-react";
 import "stream-chat-react/dist/css/v2/index.css";
 
-const apiKey = "your-api-key";
+const apiKey = import.meta.env.VITE_STREAMCHAT_KEY as string;
 const userId = localStorage.getItem("userId");
 const token = localStorage.getItem("token");
-console.log(userId, token, "-----");
+console.log(userId, token, apiKey, "-----");
 
 const filters = { members: { $in: [userId] }, type: "messaging" };
 const options = { presence: true, state: true };
