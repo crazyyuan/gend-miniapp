@@ -97,14 +97,16 @@ const ProfileCard: React.FC<{
       {step !== 1 && !mapping && (
         <>
           <h2 className="text-2xl font-bold text-center mt-4">GENDAR...</h2>
-          <p className="text-center text-gray-600">Click the Nouns</p>
+          <p className="text-center text-gray-600">
+            Click Nouns to start RADAR
+          </p>
         </>
       )}
       {step !== 1 && mapping && (
         <>
           <h2 className="text-2xl font-bold text-center mt-4">GENDAR...</h2>
           <p className="text-center text-gray-600">
-            We are looking for the person who are matched with you!
+            Finding your perfect match...
           </p>
         </>
       )}
