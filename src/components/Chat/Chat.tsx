@@ -11,6 +11,11 @@ import "stream-chat-react/dist/css/v2/index.css";
 
 import { Avatar3, Avatar5 } from "../../public/avatar";
 
+interface ChannelProps {
+  channelId: string;
+  memberCount: number;
+}
+
 const CustomMessageUi = () => {
   const { isMyMessage, message } = useMessageContext();
 
@@ -26,7 +31,7 @@ const CustomMessageUi = () => {
       </div>
       <span
         className={`w-full p-2 m-2 rounded-lg ${
-          isMyMessage() ? "bg-blue-500 text-white" : "bg-gray-200 text-black"
+          isMyMessage() ? "bg-blue-400 text-white" : "bg-gray-200 text-black"
         }`}
       >
         {message.text}
@@ -63,7 +68,10 @@ const ChatPage = () => {
     }
   };
 
-  const [channelData, setChannelData] = useState({});
+  const [channelData, setChannelData] = useState<ChannelProps>({
+    channelId: "",
+    memberCount: 0,
+  });
 
   useEffect(() => {
     const fetchChannelData = async () => {
@@ -81,18 +89,12 @@ const ChatPage = () => {
     userData: { id: userId as string },
   });
 
-  const channel = client?.channel(
-    "messaging",
-    "993dced8-b527-49bc-a05c-1c6fb086b5cf",
-    {
-      image: "https://cdn.com/image.png",
-      name: "Just Chatting",
-      members: ["dave-matthews", "trey-anastasio"],
-      // option to add custom fields
-    }
-  );
-
-  console.log(channelData);
+  const channel = client?.channel("messaging", channelData?.channelId, {
+    image: "https://cdn.com/image.png",
+    name: "Just Chatting",
+    members: ["dave-matthews", "trey-anastasio"],
+    // option to add custom fields
+  });
 
   if (!client) return <div>Loading...</div>;
 
